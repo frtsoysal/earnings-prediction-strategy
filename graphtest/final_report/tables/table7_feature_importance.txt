@@ -1,0 +1,19 @@
+====================================================================================================
+ Top 10 Predictive Features (Random Forest Global Model)
+====================================================================================================
+
+Rank | Feature                         | Importance % | Category   
+-------------------------------------------------------------------
+█|    1 | elo_momentum                    |        36.17 | Elo         |
+ |    2 | elo_before                      |         6.38 | Elo         |
+█|    3 | elo_decay                       |         6.16 | Elo         |
+ |    4 | elo_vol_4q                      |         5.27 | Elo         |
+█|    5 | actual_eps_qoq_growth_lag1      |         2.66 | Growth      |
+ |    6 | price_1m_before                 |         2.43 | Price       |
+█|    7 | price_3m_before                 |         2.38 | Price       |
+ |    8 | total_revenue_qoq_growth_lag1   |         2.31 | Growth      |
+█|    9 | revenue_estimate_average        |         2.18 | Estimates   |
+ |   10 | eps_estimate_average            |         2.16 | Estimates   |
+====================================================================================================
+Source: N=14,239 observations | Elo metrics: 53.98% total importance
+Table: table7_feature_importance.txt

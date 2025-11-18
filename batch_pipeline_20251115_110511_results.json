@@ -1,0 +1,3348 @@
+{
+  "start_time": "2025-11-15T11:05:11.171561",
+  "end_time": "2025-11-15T13:05:10.484171",
+  "total_duration": 7199.309365987778,
+  "total_symbols": 469,
+  "success_count": 414,
+  "failed_count": 55,
+  "results": [
+    {
+      "symbol": "A",
+      "start_time": "2025-11-15T11:05:11.171776",
+      "status": "success",
+      "duration": 17.246304035186768,
+      "end_time": "2025-11-15T11:05:28.418130"
+    },
+    {
+      "symbol": "AAPL",
+      "start_time": "2025-11-15T11:05:28.418275",
+      "status": "success",
+      "duration": 18.032023906707764,
+      "end_time": "2025-11-15T11:05:46.450345"
+    },
+    {
+      "symbol": "ABBV",
+      "start_time": "2025-11-15T11:05:46.450670",
+      "status": "success",
+      "duration": 16.407567977905273,
+      "end_time": "2025-11-15T11:06:02.858286"
+    },
+    {
+      "symbol": "ABT",
+      "start_time": "2025-11-15T11:06:02.858666",
+      "status": "success",
+      "duration": 18.666134119033813,
+      "end_time": "2025-11-15T11:06:21.524854"
+    },
+    {
+      "symbol": "ACGL",
+      "start_time": "2025-11-15T11:06:21.525157",
+      "status": "success",
+      "duration": 22.341628789901733,
+      "end_time": "2025-11-15T11:06:43.866831"
+    },
+    {
+      "symbol": "ACN",
+      "start_time": "2025-11-15T11:06:43.867163",
+      "status": "success",
+      "duration": 16.588682889938354,
+      "end_time": "2025-11-15T11:07:00.455902"
+    },
+    {
+      "symbol": "ADBE",
+      "start_time": "2025-11-15T11:07:00.456180",
+      "status": "failed",
+      "duration": 13.252727031707764,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:07:13.708970"
+    },
+    {
+      "symbol": "ADI",
+      "start_time": "2025-11-15T11:07:13.709292",
+      "status": "failed",
+      "duration": 13.73155689239502,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:07:27.440909"
+    },
+    {
+      "symbol": "ADM",
+      "start_time": "2025-11-15T11:07:27.441202",
+      "status": "success",
+      "duration": 19.31455397605896,
+      "end_time": "2025-11-15T11:07:46.755927"
+    },
+    {
+      "symbol": "ADP",
+      "start_time": "2025-11-15T11:07:46.756259",
+      "status": "success",
+      "duration": 20.850759983062744,
+      "end_time": "2025-11-15T11:08:07.607082"
+    },
+    {
+      "symbol": "ADSK",
+      "start_time": "2025-11-15T11:08:07.607477",
+      "status": "success",
+      "duration": 16.521872997283936,
+      "end_time": "2025-11-15T11:08:24.129414"
+    },
+    {
+      "symbol": "AEE",
+      "start_time": "2025-11-15T11:08:24.129767",
+      "status": "success",
+      "duration": 17.147202014923096,
+      "end_time": "2025-11-15T11:08:41.277014"
+    },
+    {
+      "symbol": "AEP",
+      "start_time": "2025-11-15T11:08:41.277370",
+      "status": "success",
+      "duration": 15.944504976272583,
+      "end_time": "2025-11-15T11:08:57.221931"
+    },
+    {
+      "symbol": "AES",
+      "start_time": "2025-11-15T11:08:57.222264",
+      "status": "success",
+      "duration": 22.70908284187317,
+      "end_time": "2025-11-15T11:09:19.931410"
+    },
+    {
+      "symbol": "AFL",
+      "start_time": "2025-11-15T11:09:19.932226",
+      "status": "success",
+      "duration": 21.768124103546143,
+      "end_time": "2025-11-15T11:09:41.700405"
+    },
+    {
+      "symbol": "AIG",
+      "start_time": "2025-11-15T11:09:41.701102",
+      "status": "success",
+      "duration": 16.208106994628906,
+      "end_time": "2025-11-15T11:09:57.909264"
+    },
+    {
+      "symbol": "AIZ",
+      "start_time": "2025-11-15T11:09:57.909626",
+      "status": "success",
+      "duration": 23.05829095840454,
+      "end_time": "2025-11-15T11:10:20.967966"
+    },
+    {
+      "symbol": "AJG",
+      "start_time": "2025-11-15T11:10:20.968210",
+      "status": "success",
+      "duration": 20.400129079818726,
+      "end_time": "2025-11-15T11:10:41.368388"
+    },
+    {
+      "symbol": "AKAM",
+      "start_time": "2025-11-15T11:10:41.368839",
+      "status": "success",
+      "duration": 17.055910110473633,
+      "end_time": "2025-11-15T11:10:58.424797"
+    },
+    {
+      "symbol": "ALB",
+      "start_time": "2025-11-15T11:10:58.425156",
+      "status": "success",
+      "duration": 18.232975959777832,
+      "end_time": "2025-11-15T11:11:16.658180"
+    },
+    {
+      "symbol": "ALGN",
+      "start_time": "2025-11-15T11:11:16.658826",
+      "status": "success",
+      "duration": 17.58808708190918,
+      "end_time": "2025-11-15T11:11:34.246968"
+    },
+    {
+      "symbol": "ALL",
+      "start_time": "2025-11-15T11:11:34.247358",
+      "status": "success",
+      "duration": 18.987528324127197,
+      "end_time": "2025-11-15T11:11:53.234939"
+    },
+    {
+      "symbol": "ALLE",
+      "start_time": "2025-11-15T11:11:53.235185",
+      "status": "success",
+      "duration": 16.167040586471558,
+      "end_time": "2025-11-15T11:12:09.404021"
+    },
+    {
+      "symbol": "AMCR",
+      "start_time": "2025-11-15T11:12:09.404333",
+      "status": "success",
+      "duration": 19.40923810005188,
+      "end_time": "2025-11-15T11:12:28.813633"
+    },
+    {
+      "symbol": "AMD",
+      "start_time": "2025-11-15T11:12:28.813954",
+      "status": "success",
+      "duration": 18.477274894714355,
+      "end_time": "2025-11-15T11:12:47.291273"
+    },
+    {
+      "symbol": "AME",
+      "start_time": "2025-11-15T11:12:47.291573",
+      "status": "failed",
+      "duration": 12.575561046600342,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:12:59.867201"
+    },
+    {
+      "symbol": "AMGN",
+      "start_time": "2025-11-15T11:12:59.867432",
+      "status": "success",
+      "duration": 21.200513124465942,
+      "end_time": "2025-11-15T11:13:21.067997"
+    },
+    {
+      "symbol": "AMP",
+      "start_time": "2025-11-15T11:13:21.068400",
+      "status": "success",
+      "duration": 17.29545497894287,
+      "end_time": "2025-11-15T11:13:38.363922"
+    },
+    {
+      "symbol": "AMT",
+      "start_time": "2025-11-15T11:13:38.364269",
+      "status": "success",
+      "duration": 16.719913005828857,
+      "end_time": "2025-11-15T11:13:55.084233"
+    },
+    {
+      "symbol": "AMZN",
+      "start_time": "2025-11-15T11:13:55.085151",
+      "status": "success",
+      "duration": 18.66835308074951,
+      "end_time": "2025-11-15T11:14:13.753548"
+    },
+    {
+      "symbol": "ANET",
+      "start_time": "2025-11-15T11:14:13.753864",
+      "status": "success",
+      "duration": 16.356438159942627,
+      "end_time": "2025-11-15T11:14:30.110354"
+    },
+    {
+      "symbol": "AON",
+      "start_time": "2025-11-15T11:14:30.110596",
+      "status": "success",
+      "duration": 16.354896783828735,
+      "end_time": "2025-11-15T11:14:46.465543"
+    },
+    {
+      "symbol": "AOS",
+      "start_time": "2025-11-15T11:14:46.465856",
+      "status": "success",
+      "duration": 15.998301982879639,
+      "end_time": "2025-11-15T11:15:02.464204"
+    },
+    {
+      "symbol": "APA",
+      "start_time": "2025-11-15T11:15:02.464503",
+      "status": "success",
+      "duration": 25.23804998397827,
+      "end_time": "2025-11-15T11:15:27.702620"
+    },
+    {
+      "symbol": "APD",
+      "start_time": "2025-11-15T11:15:27.702911",
+      "status": "success",
+      "duration": 20.334996938705444,
+      "end_time": "2025-11-15T11:15:48.037987"
+    },
+    {
+      "symbol": "APH",
+      "start_time": "2025-11-15T11:15:48.038333",
+      "status": "success",
+      "duration": 15.91758108139038,
+      "end_time": "2025-11-15T11:16:03.955976"
+    },
+    {
+      "symbol": "APO",
+      "start_time": "2025-11-15T11:16:03.956246",
+      "status": "success",
+      "duration": 18.575927257537842,
+      "end_time": "2025-11-15T11:16:22.532261"
+    },
+    {
+      "symbol": "APP",
+      "start_time": "2025-11-15T11:16:22.532719",
+      "status": "failed",
+      "duration": 1.8239638805389404,
+      "error": "es/sklearn/model_selection/_split.py\", line 806, in _make_test_folds\n    raise ValueError(\n    ...<2 lines>...\n    )\nValueError: n_splits=5 cannot be greater than the number of members in each class.\n",
+      "end_time": "2025-11-15T11:16:24.356701"
+    },
+    {
+      "symbol": "APTV",
+      "start_time": "2025-11-15T11:16:24.356785",
+      "status": "success",
+      "duration": 28.246147871017456,
+      "end_time": "2025-11-15T11:16:52.603002"
+    },
+    {
+      "symbol": "ARE",
+      "start_time": "2025-11-15T11:16:52.603346",
+      "status": "success",
+      "duration": 27.66326904296875,
+      "end_time": "2025-11-15T11:17:20.266695"
+    },
+    {
+      "symbol": "ATO",
+      "start_time": "2025-11-15T11:17:20.268789",
+      "status": "success",
+      "duration": 17.614311933517456,
+      "end_time": "2025-11-15T11:17:37.883148"
+    },
+    {
+      "symbol": "AVB",
+      "start_time": "2025-11-15T11:17:37.883458",
+      "status": "success",
+      "duration": 15.427944898605347,
+      "end_time": "2025-11-15T11:17:53.311466"
+    },
+    {
+      "symbol": "AVGO",
+      "start_time": "2025-11-15T11:17:53.311644",
+      "status": "failed",
+      "duration": 10.542128086090088,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:18:03.853832"
+    },
+    {
+      "symbol": "AVY",
+      "start_time": "2025-11-15T11:18:03.854147",
+      "status": "success",
+      "duration": 16.131208896636963,
+      "end_time": "2025-11-15T11:18:19.985409"
+    },
+    {
+      "symbol": "AWK",
+      "start_time": "2025-11-15T11:18:19.988740",
+      "status": "success",
+      "duration": 16.98532724380493,
+      "end_time": "2025-11-15T11:18:36.974114"
+    },
+    {
+      "symbol": "AXON",
+      "start_time": "2025-11-15T11:18:36.974463",
+      "status": "success",
+      "duration": 16.052732944488525,
+      "end_time": "2025-11-15T11:18:53.027241"
+    },
+    {
+      "symbol": "AXP",
+      "start_time": "2025-11-15T11:18:53.027557",
+      "status": "success",
+      "duration": 16.09265685081482,
+      "end_time": "2025-11-15T11:19:09.120285"
+    },
+    {
+      "symbol": "AZO",
+      "start_time": "2025-11-15T11:19:09.120694",
+      "status": "success",
+      "duration": 14.809174060821533,
+      "end_time": "2025-11-15T11:19:23.929918"
+    },
+    {
+      "symbol": "BA",
+      "start_time": "2025-11-15T11:19:23.930251",
+      "status": "success",
+      "duration": 14.489160060882568,
+      "end_time": "2025-11-15T11:19:38.419462"
+    },
+    {
+      "symbol": "BAC",
+      "start_time": "2025-11-15T11:19:38.419759",
+      "status": "success",
+      "duration": 13.944153785705566,
+      "end_time": "2025-11-15T11:19:52.363962"
+    },
+    {
+      "symbol": "BALL",
+      "start_time": "2025-11-15T11:19:52.364710",
+      "status": "failed",
+      "duration": 1.6964430809020996,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=2.\n",
+      "end_time": "2025-11-15T11:19:54.061179"
+    },
+    {
+      "symbol": "BAX",
+      "start_time": "2025-11-15T11:19:54.061291",
+      "status": "success",
+      "duration": 15.797028064727783,
+      "end_time": "2025-11-15T11:20:09.858370"
+    },
+    {
+      "symbol": "BBY",
+      "start_time": "2025-11-15T11:20:09.858730",
+      "status": "success",
+      "duration": 14.59547209739685,
+      "end_time": "2025-11-15T11:20:24.454245"
+    },
+    {
+      "symbol": "BDX",
+      "start_time": "2025-11-15T11:20:24.454565",
+      "status": "success",
+      "duration": 15.691200971603394,
+      "end_time": "2025-11-15T11:20:40.145839"
+    },
+    {
+      "symbol": "BEN",
+      "start_time": "2025-11-15T11:20:40.146214",
+      "status": "success",
+      "duration": 15.227540969848633,
+      "end_time": "2025-11-15T11:20:55.373819"
+    },
+    {
+      "symbol": "BG",
+      "start_time": "2025-11-15T11:20:55.374126",
+      "status": "success",
+      "duration": 15.267640829086304,
+      "end_time": "2025-11-15T11:21:10.641815"
+    },
+    {
+      "symbol": "BIIB",
+      "start_time": "2025-11-15T11:21:10.642069",
+      "status": "success",
+      "duration": 13.263216733932495,
+      "end_time": "2025-11-15T11:21:23.905340"
+    },
+    {
+      "symbol": "BK",
+      "start_time": "2025-11-15T11:21:23.905488",
+      "status": "success",
+      "duration": 14.88698124885559,
+      "end_time": "2025-11-15T11:21:38.792522"
+    },
+    {
+      "symbol": "BKNG",
+      "start_time": "2025-11-15T11:21:38.792782",
+      "status": "success",
+      "duration": 13.498117923736572,
+      "end_time": "2025-11-15T11:21:52.290985"
+    },
+    {
+      "symbol": "BKR",
+      "start_time": "2025-11-15T11:21:52.292859",
+      "status": "success",
+      "duration": 14.456490993499756,
+      "end_time": "2025-11-15T11:22:06.750331"
+    },
+    {
+      "symbol": "BLDR",
+      "start_time": "2025-11-15T11:22:06.750716",
+      "status": "success",
+      "duration": 13.98614501953125,
+      "end_time": "2025-11-15T11:22:20.736907"
+    },
+    {
+      "symbol": "BLK",
+      "start_time": "2025-11-15T11:22:20.737335",
+      "status": "success",
+      "duration": 13.858415842056274,
+      "end_time": "2025-11-15T11:22:34.595820"
+    },
+    {
+      "symbol": "BMY",
+      "start_time": "2025-11-15T11:22:34.596164",
+      "status": "success",
+      "duration": 13.167432069778442,
+      "end_time": "2025-11-15T11:22:47.763645"
+    },
+    {
+      "symbol": "BR",
+      "start_time": "2025-11-15T11:22:47.763777",
+      "status": "success",
+      "duration": 13.509732007980347,
+      "end_time": "2025-11-15T11:23:01.273566"
+    },
+    {
+      "symbol": "BRO",
+      "start_time": "2025-11-15T11:23:01.274271",
+      "status": "success",
+      "duration": 14.39220905303955,
+      "end_time": "2025-11-15T11:23:15.666532"
+    },
+    {
+      "symbol": "BSX",
+      "start_time": "2025-11-15T11:23:15.667402",
+      "status": "success",
+      "duration": 13.692535877227783,
+      "end_time": "2025-11-15T11:23:29.359996"
+    },
+    {
+      "symbol": "BX",
+      "start_time": "2025-11-15T11:23:29.360293",
+      "status": "success",
+      "duration": 15.430768966674805,
+      "end_time": "2025-11-15T11:23:44.791126"
+    },
+    {
+      "symbol": "BXP",
+      "start_time": "2025-11-15T11:23:44.792217",
+      "status": "success",
+      "duration": 13.253344058990479,
+      "end_time": "2025-11-15T11:23:58.045625"
+    },
+    {
+      "symbol": "CAH",
+      "start_time": "2025-11-15T11:23:58.045963",
+      "status": "success",
+      "duration": 13.671198844909668,
+      "end_time": "2025-11-15T11:24:11.717207"
+    },
+    {
+      "symbol": "CARR",
+      "start_time": "2025-11-15T11:24:11.717506",
+      "status": "success",
+      "duration": 12.861305952072144,
+      "end_time": "2025-11-15T11:24:24.578865"
+    },
+    {
+      "symbol": "CAT",
+      "start_time": "2025-11-15T11:24:24.579221",
+      "status": "success",
+      "duration": 13.25163221359253,
+      "end_time": "2025-11-15T11:24:37.830904"
+    },
+    {
+      "symbol": "CB",
+      "start_time": "2025-11-15T11:24:37.831163",
+      "status": "success",
+      "duration": 12.867313861846924,
+      "end_time": "2025-11-15T11:24:50.698526"
+    },
+    {
+      "symbol": "CBOE",
+      "start_time": "2025-11-15T11:24:50.698858",
+      "status": "success",
+      "duration": 12.829293012619019,
+      "end_time": "2025-11-15T11:25:03.528197"
+    },
+    {
+      "symbol": "CBRE",
+      "start_time": "2025-11-15T11:25:03.528530",
+      "status": "success",
+      "duration": 13.19901418685913,
+      "end_time": "2025-11-15T11:25:16.727611"
+    },
+    {
+      "symbol": "CCI",
+      "start_time": "2025-11-15T11:25:16.729043",
+      "status": "success",
+      "duration": 13.459601163864136,
+      "end_time": "2025-11-15T11:25:30.188710"
+    },
+    {
+      "symbol": "CCL",
+      "start_time": "2025-11-15T11:25:30.189026",
+      "status": "success",
+      "duration": 12.710957050323486,
+      "end_time": "2025-11-15T11:25:42.900037"
+    },
+    {
+      "symbol": "CDNS",
+      "start_time": "2025-11-15T11:25:42.900344",
+      "status": "failed",
+      "duration": 9.80147409439087,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:25:52.701874"
+    },
+    {
+      "symbol": "CDW",
+      "start_time": "2025-11-15T11:25:52.702771",
+      "status": "success",
+      "duration": 15.486089944839478,
+      "end_time": "2025-11-15T11:26:08.188939"
+    },
+    {
+      "symbol": "CEG",
+      "start_time": "2025-11-15T11:26:08.189223",
+      "status": "failed",
+      "duration": 2.4166791439056396,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=4.\n",
+      "end_time": "2025-11-15T11:26:10.605957"
+    },
+    {
+      "symbol": "CF",
+      "start_time": "2025-11-15T11:26:10.606140",
+      "status": "success",
+      "duration": 15.465841054916382,
+      "end_time": "2025-11-15T11:26:26.072043"
+    },
+    {
+      "symbol": "CFG",
+      "start_time": "2025-11-15T11:26:26.072408",
+      "status": "success",
+      "duration": 18.26327896118164,
+      "end_time": "2025-11-15T11:26:44.335788"
+    },
+    {
+      "symbol": "CHD",
+      "start_time": "2025-11-15T11:26:44.336101",
+      "status": "success",
+      "duration": 16.47247076034546,
+      "end_time": "2025-11-15T11:27:00.808637"
+    },
+    {
+      "symbol": "CHRW",
+      "start_time": "2025-11-15T11:27:00.808943",
+      "status": "success",
+      "duration": 15.224740982055664,
+      "end_time": "2025-11-15T11:27:16.033747"
+    },
+    {
+      "symbol": "CHTR",
+      "start_time": "2025-11-15T11:27:16.034029",
+      "status": "success",
+      "duration": 19.467498064041138,
+      "end_time": "2025-11-15T11:27:35.501584"
+    },
+    {
+      "symbol": "CI",
+      "start_time": "2025-11-15T11:27:35.501932",
+      "status": "success",
+      "duration": 15.423831939697266,
+      "end_time": "2025-11-15T11:27:50.925821"
+    },
+    {
+      "symbol": "CINF",
+      "start_time": "2025-11-15T11:27:50.926176",
+      "status": "success",
+      "duration": 13.916404008865356,
+      "end_time": "2025-11-15T11:28:04.842639"
+    },
+    {
+      "symbol": "CL",
+      "start_time": "2025-11-15T11:28:04.843000",
+      "status": "success",
+      "duration": 17.520023107528687,
+      "end_time": "2025-11-15T11:28:22.363073"
+    },
+    {
+      "symbol": "CMCSA",
+      "start_time": "2025-11-15T11:28:22.363412",
+      "status": "failed",
+      "duration": 15.643226146697998,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:28:38.006692"
+    },
+    {
+      "symbol": "CME",
+      "start_time": "2025-11-15T11:28:38.009593",
+      "status": "success",
+      "duration": 14.138232946395874,
+      "end_time": "2025-11-15T11:28:52.147890"
+    },
+    {
+      "symbol": "CMG",
+      "start_time": "2025-11-15T11:28:52.148255",
+      "status": "success",
+      "duration": 14.42440414428711,
+      "end_time": "2025-11-15T11:29:06.572712"
+    },
+    {
+      "symbol": "CMI",
+      "start_time": "2025-11-15T11:29:06.573078",
+      "status": "success",
+      "duration": 15.377970933914185,
+      "end_time": "2025-11-15T11:29:21.951111"
+    },
+    {
+      "symbol": "CMS",
+      "start_time": "2025-11-15T11:29:21.951506",
+      "status": "success",
+      "duration": 14.84505319595337,
+      "end_time": "2025-11-15T11:29:36.796609"
+    },
+    {
+      "symbol": "CNC",
+      "start_time": "2025-11-15T11:29:36.796925",
+      "status": "success",
+      "duration": 19.49197220802307,
+      "end_time": "2025-11-15T11:29:56.288949"
+    },
+    {
+      "symbol": "CNP",
+      "start_time": "2025-11-15T11:29:56.289184",
+      "status": "success",
+      "duration": 14.631981134414673,
+      "end_time": "2025-11-15T11:30:10.921244"
+    },
+    {
+      "symbol": "COF",
+      "start_time": "2025-11-15T11:30:10.921751",
+      "status": "success",
+      "duration": 14.296380996704102,
+      "end_time": "2025-11-15T11:30:25.218179"
+    },
+    {
+      "symbol": "COIN",
+      "start_time": "2025-11-15T11:30:25.219016",
+      "status": "failed",
+      "duration": 1.5618212223052979,
+      "error": "es/sklearn/model_selection/_split.py\", line 806, in _make_test_folds\n    raise ValueError(\n    ...<2 lines>...\n    )\nValueError: n_splits=5 cannot be greater than the number of members in each class.\n",
+      "end_time": "2025-11-15T11:30:26.780859"
+    },
+    {
+      "symbol": "COO",
+      "start_time": "2025-11-15T11:30:26.781237",
+      "status": "success",
+      "duration": 16.39633297920227,
+      "end_time": "2025-11-15T11:30:43.177625"
+    },
+    {
+      "symbol": "COP",
+      "start_time": "2025-11-15T11:30:43.178518",
+      "status": "success",
+      "duration": 16.21155095100403,
+      "end_time": "2025-11-15T11:30:59.390131"
+    },
+    {
+      "symbol": "COR",
+      "start_time": "2025-11-15T11:30:59.391022",
+      "status": "failed",
+      "duration": 1.4312961101531982,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T11:31:00.822340"
+    },
+    {
+      "symbol": "CPAY",
+      "start_time": "2025-11-15T11:31:00.822434",
+      "status": "failed",
+      "duration": 1.453355073928833,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T11:31:02.275822"
+    },
+    {
+      "symbol": "CPRT",
+      "start_time": "2025-11-15T11:31:02.275944",
+      "status": "failed",
+      "duration": 13.30350112915039,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:31:15.579503"
+    },
+    {
+      "symbol": "CPT",
+      "start_time": "2025-11-15T11:31:15.581016",
+      "status": "success",
+      "duration": 14.654891014099121,
+      "end_time": "2025-11-15T11:31:30.235976"
+    },
+    {
+      "symbol": "CRL",
+      "start_time": "2025-11-15T11:31:30.236933",
+      "status": "failed",
+      "duration": 10.104950666427612,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:31:40.341940"
+    },
+    {
+      "symbol": "CRM",
+      "start_time": "2025-11-15T11:31:40.342822",
+      "status": "failed",
+      "duration": 12.861937284469604,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:31:53.204811"
+    },
+    {
+      "symbol": "CRWD",
+      "start_time": "2025-11-15T11:31:53.206046",
+      "status": "success",
+      "duration": 14.0471510887146,
+      "end_time": "2025-11-15T11:32:07.253272"
+    },
+    {
+      "symbol": "CSCO",
+      "start_time": "2025-11-15T11:32:07.253437",
+      "status": "failed",
+      "duration": 12.249649286270142,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:32:19.503143"
+    },
+    {
+      "symbol": "CSGP",
+      "start_time": "2025-11-15T11:32:19.503271",
+      "status": "success",
+      "duration": 17.162153244018555,
+      "end_time": "2025-11-15T11:32:36.665482"
+    },
+    {
+      "symbol": "CSX",
+      "start_time": "2025-11-15T11:32:36.666563",
+      "status": "success",
+      "duration": 14.29858684539795,
+      "end_time": "2025-11-15T11:32:50.965209"
+    },
+    {
+      "symbol": "CTAS",
+      "start_time": "2025-11-15T11:32:50.966140",
+      "status": "failed",
+      "duration": 13.155296087265015,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:33:04.121497"
+    },
+    {
+      "symbol": "CTRA",
+      "start_time": "2025-11-15T11:33:04.122367",
+      "status": "success",
+      "duration": 18.321726083755493,
+      "end_time": "2025-11-15T11:33:22.444223"
+    },
+    {
+      "symbol": "CTSH",
+      "start_time": "2025-11-15T11:33:22.444406",
+      "status": "success",
+      "duration": 14.185680866241455,
+      "end_time": "2025-11-15T11:33:36.630177"
+    },
+    {
+      "symbol": "CTVA",
+      "start_time": "2025-11-15T11:33:36.630359",
+      "status": "success",
+      "duration": 19.62491488456726,
+      "end_time": "2025-11-15T11:33:56.255333"
+    },
+    {
+      "symbol": "CVS",
+      "start_time": "2025-11-15T11:33:56.255539",
+      "status": "failed",
+      "duration": 10.57657790184021,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:34:06.832176"
+    },
+    {
+      "symbol": "CVX",
+      "start_time": "2025-11-15T11:34:06.832453",
+      "status": "success",
+      "duration": 16.04202389717102,
+      "end_time": "2025-11-15T11:34:22.874561"
+    },
+    {
+      "symbol": "D",
+      "start_time": "2025-11-15T11:34:22.874886",
+      "status": "success",
+      "duration": 16.635401248931885,
+      "end_time": "2025-11-15T11:34:39.510335"
+    },
+    {
+      "symbol": "DAL",
+      "start_time": "2025-11-15T11:34:39.510647",
+      "status": "success",
+      "duration": 15.22508192062378,
+      "end_time": "2025-11-15T11:34:54.735779"
+    },
+    {
+      "symbol": "DASH",
+      "start_time": "2025-11-15T11:34:54.736114",
+      "status": "failed",
+      "duration": 12.861523151397705,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:35:07.597698"
+    },
+    {
+      "symbol": "DAY",
+      "start_time": "2025-11-15T11:35:07.597931",
+      "status": "success",
+      "duration": 13.762615203857422,
+      "end_time": "2025-11-15T11:35:21.360599"
+    },
+    {
+      "symbol": "DD",
+      "start_time": "2025-11-15T11:35:21.361284",
+      "status": "success",
+      "duration": 15.379081964492798,
+      "end_time": "2025-11-15T11:35:36.740415"
+    },
+    {
+      "symbol": "DDOG",
+      "start_time": "2025-11-15T11:35:36.740769",
+      "status": "failed",
+      "duration": 10.120368003845215,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:35:46.861187"
+    },
+    {
+      "symbol": "DE",
+      "start_time": "2025-11-15T11:35:46.861902",
+      "status": "success",
+      "duration": 16.881870985031128,
+      "end_time": "2025-11-15T11:36:03.743831"
+    },
+    {
+      "symbol": "DECK",
+      "start_time": "2025-11-15T11:36:03.744197",
+      "status": "success",
+      "duration": 17.740330934524536,
+      "end_time": "2025-11-15T11:36:21.484599"
+    },
+    {
+      "symbol": "DELL",
+      "start_time": "2025-11-15T11:36:21.484875",
+      "status": "failed",
+      "duration": 14.252027034759521,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:36:35.736956"
+    },
+    {
+      "symbol": "DG",
+      "start_time": "2025-11-15T11:36:35.737288",
+      "status": "success",
+      "duration": 14.191773176193237,
+      "end_time": "2025-11-15T11:36:49.929141"
+    },
+    {
+      "symbol": "DGX",
+      "start_time": "2025-11-15T11:36:49.929359",
+      "status": "success",
+      "duration": 13.777666807174683,
+      "end_time": "2025-11-15T11:37:03.707072"
+    },
+    {
+      "symbol": "DHI",
+      "start_time": "2025-11-15T11:37:03.707387",
+      "status": "success",
+      "duration": 16.913738250732422,
+      "end_time": "2025-11-15T11:37:20.621171"
+    },
+    {
+      "symbol": "DHR",
+      "start_time": "2025-11-15T11:37:20.621692",
+      "status": "failed",
+      "duration": 13.659335136413574,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:37:34.281077"
+    },
+    {
+      "symbol": "DIS",
+      "start_time": "2025-11-15T11:37:34.281974",
+      "status": "success",
+      "duration": 14.512255191802979,
+      "end_time": "2025-11-15T11:37:48.794280"
+    },
+    {
+      "symbol": "DLR",
+      "start_time": "2025-11-15T11:37:48.794655",
+      "status": "success",
+      "duration": 12.974096298217773,
+      "end_time": "2025-11-15T11:38:01.768821"
+    },
+    {
+      "symbol": "DLTR",
+      "start_time": "2025-11-15T11:38:01.770101",
+      "status": "success",
+      "duration": 19.231698751449585,
+      "end_time": "2025-11-15T11:38:21.002058"
+    },
+    {
+      "symbol": "DOC",
+      "start_time": "2025-11-15T11:38:21.002469",
+      "status": "success",
+      "duration": 16.708379983901978,
+      "end_time": "2025-11-15T11:38:37.711024"
+    },
+    {
+      "symbol": "DOV",
+      "start_time": "2025-11-15T11:38:37.711431",
+      "status": "failed",
+      "duration": 10.491995096206665,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:38:48.203473"
+    },
+    {
+      "symbol": "DOW",
+      "start_time": "2025-11-15T11:38:48.203790",
+      "status": "success",
+      "duration": 16.044444799423218,
+      "end_time": "2025-11-15T11:39:04.248292"
+    },
+    {
+      "symbol": "DPZ",
+      "start_time": "2025-11-15T11:39:04.248662",
+      "status": "success",
+      "duration": 18.856239080429077,
+      "end_time": "2025-11-15T11:39:23.104955"
+    },
+    {
+      "symbol": "DRI",
+      "start_time": "2025-11-15T11:39:23.105256",
+      "status": "success",
+      "duration": 13.901942014694214,
+      "end_time": "2025-11-15T11:39:37.007674"
+    },
+    {
+      "symbol": "DTE",
+      "start_time": "2025-11-15T11:39:37.007964",
+      "status": "success",
+      "duration": 14.666730165481567,
+      "end_time": "2025-11-15T11:39:51.674752"
+    },
+    {
+      "symbol": "DUK",
+      "start_time": "2025-11-15T11:39:51.675128",
+      "status": "success",
+      "duration": 14.872366905212402,
+      "end_time": "2025-11-15T11:40:06.547574"
+    },
+    {
+      "symbol": "DVA",
+      "start_time": "2025-11-15T11:40:06.547922",
+      "status": "success",
+      "duration": 14.765326976776123,
+      "end_time": "2025-11-15T11:40:21.313295"
+    },
+    {
+      "symbol": "DVN",
+      "start_time": "2025-11-15T11:40:21.313609",
+      "status": "success",
+      "duration": 18.22432804107666,
+      "end_time": "2025-11-15T11:40:39.537992"
+    },
+    {
+      "symbol": "DXCM",
+      "start_time": "2025-11-15T11:40:39.538314",
+      "status": "success",
+      "duration": 17.215924978256226,
+      "end_time": "2025-11-15T11:40:56.754843"
+    },
+    {
+      "symbol": "EA",
+      "start_time": "2025-11-15T11:40:56.755365",
+      "status": "success",
+      "duration": 13.044695615768433,
+      "end_time": "2025-11-15T11:41:09.800110"
+    },
+    {
+      "symbol": "EBAY",
+      "start_time": "2025-11-15T11:41:09.800472",
+      "status": "success",
+      "duration": 14.714081048965454,
+      "end_time": "2025-11-15T11:41:24.514602"
+    },
+    {
+      "symbol": "ECL",
+      "start_time": "2025-11-15T11:41:24.514928",
+      "status": "success",
+      "duration": 19.783658981323242,
+      "end_time": "2025-11-15T11:41:44.298651"
+    },
+    {
+      "symbol": "ED",
+      "start_time": "2025-11-15T11:41:44.299027",
+      "status": "success",
+      "duration": 16.82178807258606,
+      "end_time": "2025-11-15T11:42:01.121096"
+    },
+    {
+      "symbol": "EFX",
+      "start_time": "2025-11-15T11:42:01.121486",
+      "status": "success",
+      "duration": 17.151100873947144,
+      "end_time": "2025-11-15T11:42:18.272654"
+    },
+    {
+      "symbol": "EG",
+      "start_time": "2025-11-15T11:42:18.272976",
+      "status": "success",
+      "duration": 14.954846143722534,
+      "end_time": "2025-11-15T11:42:33.227887"
+    },
+    {
+      "symbol": "EIX",
+      "start_time": "2025-11-15T11:42:33.228209",
+      "status": "success",
+      "duration": 14.676219940185547,
+      "end_time": "2025-11-15T11:42:47.904499"
+    },
+    {
+      "symbol": "EL",
+      "start_time": "2025-11-15T11:42:47.904787",
+      "status": "success",
+      "duration": 19.54658317565918,
+      "end_time": "2025-11-15T11:43:07.451451"
+    },
+    {
+      "symbol": "ELV",
+      "start_time": "2025-11-15T11:43:07.451721",
+      "status": "success",
+      "duration": 19.26150393486023,
+      "end_time": "2025-11-15T11:43:26.713296"
+    },
+    {
+      "symbol": "EME",
+      "start_time": "2025-11-15T11:43:26.713601",
+      "status": "success",
+      "duration": 15.119638919830322,
+      "end_time": "2025-11-15T11:43:41.833307"
+    },
+    {
+      "symbol": "EMR",
+      "start_time": "2025-11-15T11:43:41.833905",
+      "status": "success",
+      "duration": 14.572396039962769,
+      "end_time": "2025-11-15T11:43:56.406357"
+    },
+    {
+      "symbol": "EOG",
+      "start_time": "2025-11-15T11:43:56.406682",
+      "status": "success",
+      "duration": 14.241816997528076,
+      "end_time": "2025-11-15T11:44:10.648552"
+    },
+    {
+      "symbol": "EPAM",
+      "start_time": "2025-11-15T11:44:10.648829",
+      "status": "success",
+      "duration": 14.114941120147705,
+      "end_time": "2025-11-15T11:44:24.763820"
+    },
+    {
+      "symbol": "EQIX",
+      "start_time": "2025-11-15T11:44:24.764442",
+      "status": "success",
+      "duration": 13.445678949356079,
+      "end_time": "2025-11-15T11:44:38.210177"
+    },
+    {
+      "symbol": "EQR",
+      "start_time": "2025-11-15T11:44:38.210494",
+      "status": "success",
+      "duration": 14.285491228103638,
+      "end_time": "2025-11-15T11:44:52.496045"
+    },
+    {
+      "symbol": "EQT",
+      "start_time": "2025-11-15T11:44:52.496412",
+      "status": "success",
+      "duration": 14.36455225944519,
+      "end_time": "2025-11-15T11:45:06.861034"
+    },
+    {
+      "symbol": "ERIE",
+      "start_time": "2025-11-15T11:45:06.861947",
+      "status": "success",
+      "duration": 14.274343967437744,
+      "end_time": "2025-11-15T11:45:21.136354"
+    },
+    {
+      "symbol": "ES",
+      "start_time": "2025-11-15T11:45:21.137198",
+      "status": "success",
+      "duration": 14.124189138412476,
+      "end_time": "2025-11-15T11:45:35.261434"
+    },
+    {
+      "symbol": "ESS",
+      "start_time": "2025-11-15T11:45:35.262261",
+      "status": "success",
+      "duration": 13.878174066543579,
+      "end_time": "2025-11-15T11:45:49.140482"
+    },
+    {
+      "symbol": "ETN",
+      "start_time": "2025-11-15T11:45:49.141233",
+      "status": "success",
+      "duration": 14.064749002456665,
+      "end_time": "2025-11-15T11:46:03.206036"
+    },
+    {
+      "symbol": "ETR",
+      "start_time": "2025-11-15T11:46:03.207408",
+      "status": "success",
+      "duration": 14.908658981323242,
+      "end_time": "2025-11-15T11:46:18.116127"
+    },
+    {
+      "symbol": "EVRG",
+      "start_time": "2025-11-15T11:46:18.116286",
+      "status": "success",
+      "duration": 14.05901312828064,
+      "end_time": "2025-11-15T11:46:32.175352"
+    },
+    {
+      "symbol": "EW",
+      "start_time": "2025-11-15T11:46:32.176264",
+      "status": "success",
+      "duration": 13.907774925231934,
+      "end_time": "2025-11-15T11:46:46.084092"
+    },
+    {
+      "symbol": "EXC",
+      "start_time": "2025-11-15T11:46:46.084914",
+      "status": "success",
+      "duration": 14.412410020828247,
+      "end_time": "2025-11-15T11:47:00.497373"
+    },
+    {
+      "symbol": "EXPD",
+      "start_time": "2025-11-15T11:47:00.498182",
+      "status": "success",
+      "duration": 14.01040530204773,
+      "end_time": "2025-11-15T11:47:14.508645"
+    },
+    {
+      "symbol": "EXPE",
+      "start_time": "2025-11-15T11:47:14.509453",
+      "status": "success",
+      "duration": 14.276826858520508,
+      "end_time": "2025-11-15T11:47:28.786332"
+    },
+    {
+      "symbol": "EXR",
+      "start_time": "2025-11-15T11:47:28.786464",
+      "status": "failed",
+      "duration": 11.42621111869812,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T11:47:40.212737"
+    },
+    {
+      "symbol": "F",
+      "start_time": "2025-11-15T11:47:40.212869",
+      "status": "success",
+      "duration": 15.056790828704834,
+      "end_time": "2025-11-15T11:47:55.269719"
+    },
+    {
+      "symbol": "FANG",
+      "start_time": "2025-11-15T11:47:55.270145",
+      "status": "success",
+      "duration": 15.285654067993164,
+      "end_time": "2025-11-15T11:48:10.555860"
+    },
+    {
+      "symbol": "FAST",
+      "start_time": "2025-11-15T11:48:10.556238",
+      "status": "success",
+      "duration": 15.474447965621948,
+      "end_time": "2025-11-15T11:48:26.030753"
+    },
+    {
+      "symbol": "FCX",
+      "start_time": "2025-11-15T11:48:26.031510",
+      "status": "success",
+      "duration": 13.373262166976929,
+      "end_time": "2025-11-15T11:48:39.404898"
+    },
+    {
+      "symbol": "FDS",
+      "start_time": "2025-11-15T11:48:39.405353",
+      "status": "success",
+      "duration": 13.19905710220337,
+      "end_time": "2025-11-15T11:48:52.604482"
+    },
+    {
+      "symbol": "FDX",
+      "start_time": "2025-11-15T11:48:52.604839",
+      "status": "success",
+      "duration": 14.634558200836182,
+      "end_time": "2025-11-15T11:49:07.239476"
+    },
+    {
+      "symbol": "FE",
+      "start_time": "2025-11-15T11:49:07.239777",
+      "status": "success",
+      "duration": 15.978307247161865,
+      "end_time": "2025-11-15T11:49:23.218445"
+    },
+    {
+      "symbol": "FFIV",
+      "start_time": "2025-11-15T11:49:23.218725",
+      "status": "success",
+      "duration": 14.249667644500732,
+      "end_time": "2025-11-15T11:49:37.468440"
+    },
+    {
+      "symbol": "FITB",
+      "start_time": "2025-11-15T11:49:37.468764",
+      "status": "success",
+      "duration": 13.955241203308105,
+      "end_time": "2025-11-15T11:49:51.424072"
+    },
+    {
+      "symbol": "FOX",
+      "start_time": "2025-11-15T11:49:51.424339",
+      "status": "failed",
+      "duration": 1.7298600673675537,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=3.\n",
+      "end_time": "2025-11-15T11:49:53.154261"
+    },
+    {
+      "symbol": "FOXA",
+      "start_time": "2025-11-15T11:49:53.154417",
+      "status": "success",
+      "duration": 14.210615158081055,
+      "end_time": "2025-11-15T11:50:07.365100"
+    },
+    {
+      "symbol": "FRT",
+      "start_time": "2025-11-15T11:50:07.365445",
+      "status": "success",
+      "duration": 14.644069910049438,
+      "end_time": "2025-11-15T11:50:22.009675"
+    },
+    {
+      "symbol": "FSLR",
+      "start_time": "2025-11-15T11:50:22.010218",
+      "status": "success",
+      "duration": 14.646475076675415,
+      "end_time": "2025-11-15T11:50:36.656748"
+    },
+    {
+      "symbol": "FTNT",
+      "start_time": "2025-11-15T11:50:36.657456",
+      "status": "success",
+      "duration": 14.10292673110962,
+      "end_time": "2025-11-15T11:50:50.760437"
+    },
+    {
+      "symbol": "FTV",
+      "start_time": "2025-11-15T11:50:50.760750",
+      "status": "success",
+      "duration": 16.10244393348694,
+      "end_time": "2025-11-15T11:51:06.863278"
+    },
+    {
+      "symbol": "GD",
+      "start_time": "2025-11-15T11:51:06.863456",
+      "status": "success",
+      "duration": 17.032627820968628,
+      "end_time": "2025-11-15T11:51:23.896151"
+    },
+    {
+      "symbol": "GDDY",
+      "start_time": "2025-11-15T11:51:23.896529",
+      "status": "success",
+      "duration": 17.310802221298218,
+      "end_time": "2025-11-15T11:51:41.207415"
+    },
+    {
+      "symbol": "GE",
+      "start_time": "2025-11-15T11:51:41.207757",
+      "status": "success",
+      "duration": 16.72653293609619,
+      "end_time": "2025-11-15T11:51:57.934371"
+    },
+    {
+      "symbol": "GEHC",
+      "start_time": "2025-11-15T11:51:57.934739",
+      "status": "failed",
+      "duration": 1.794715166091919,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T11:51:59.729495"
+    },
+    {
+      "symbol": "GEN",
+      "start_time": "2025-11-15T11:51:59.730069",
+      "status": "failed",
+      "duration": 2.0419352054595947,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=1.\n",
+      "end_time": "2025-11-15T11:52:01.772068"
+    },
+    {
+      "symbol": "GEV",
+      "start_time": "2025-11-15T11:52:01.772215",
+      "status": "failed",
+      "duration": 1.5699760913848877,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T11:52:03.342219"
+    },
+    {
+      "symbol": "GILD",
+      "start_time": "2025-11-15T11:52:03.342520",
+      "status": "success",
+      "duration": 19.20815682411194,
+      "end_time": "2025-11-15T11:52:22.550731"
+    },
+    {
+      "symbol": "GIS",
+      "start_time": "2025-11-15T11:52:22.551053",
+      "status": "success",
+      "duration": 17.399622917175293,
+      "end_time": "2025-11-15T11:52:39.951046"
+    },
+    {
+      "symbol": "GL",
+      "start_time": "2025-11-15T11:52:39.952602",
+      "status": "success",
+      "duration": 16.799787759780884,
+      "end_time": "2025-11-15T11:52:56.752473"
+    },
+    {
+      "symbol": "GLW",
+      "start_time": "2025-11-15T11:52:56.752782",
+      "status": "success",
+      "duration": 15.236318826675415,
+      "end_time": "2025-11-15T11:53:11.989151"
+    },
+    {
+      "symbol": "GM",
+      "start_time": "2025-11-15T11:53:11.989469",
+      "status": "success",
+      "duration": 16.089585304260254,
+      "end_time": "2025-11-15T11:53:28.079123"
+    },
+    {
+      "symbol": "GNRC",
+      "start_time": "2025-11-15T11:53:28.079581",
+      "status": "success",
+      "duration": 15.92331314086914,
+      "end_time": "2025-11-15T11:53:44.002964"
+    },
+    {
+      "symbol": "GOOG",
+      "start_time": "2025-11-15T11:53:44.003286",
+      "status": "success",
+      "duration": 15.644051790237427,
+      "end_time": "2025-11-15T11:53:59.647406"
+    },
+    {
+      "symbol": "GOOGL",
+      "start_time": "2025-11-15T11:53:59.647710",
+      "status": "success",
+      "duration": 51.803436040878296,
+      "end_time": "2025-11-15T11:54:51.451786"
+    },
+    {
+      "symbol": "GPC",
+      "start_time": "2025-11-15T11:54:51.452187",
+      "status": "success",
+      "duration": 18.36719012260437,
+      "end_time": "2025-11-15T11:55:09.819685"
+    },
+    {
+      "symbol": "GPN",
+      "start_time": "2025-11-15T11:55:09.820215",
+      "status": "success",
+      "duration": 17.19091510772705,
+      "end_time": "2025-11-15T11:55:27.011190"
+    },
+    {
+      "symbol": "GRMN",
+      "start_time": "2025-11-15T11:55:27.011374",
+      "status": "success",
+      "duration": 22.80071997642517,
+      "end_time": "2025-11-15T11:55:49.812158"
+    },
+    {
+      "symbol": "GWW",
+      "start_time": "2025-11-15T11:55:49.812330",
+      "status": "success",
+      "duration": 14.56672716140747,
+      "end_time": "2025-11-15T11:56:04.379130"
+    },
+    {
+      "symbol": "HAL",
+      "start_time": "2025-11-15T11:56:04.380149",
+      "status": "success",
+      "duration": 15.592710971832275,
+      "end_time": "2025-11-15T11:56:19.972955"
+    },
+    {
+      "symbol": "HAS",
+      "start_time": "2025-11-15T11:56:19.973247",
+      "status": "success",
+      "duration": 17.964100122451782,
+      "end_time": "2025-11-15T11:56:37.937403"
+    },
+    {
+      "symbol": "HBAN",
+      "start_time": "2025-11-15T11:56:37.938247",
+      "status": "success",
+      "duration": 20.5423800945282,
+      "end_time": "2025-11-15T11:56:58.480692"
+    },
+    {
+      "symbol": "HCA",
+      "start_time": "2025-11-15T11:56:58.481100",
+      "status": "success",
+      "duration": 18.350507020950317,
+      "end_time": "2025-11-15T11:57:16.832155"
+    },
+    {
+      "symbol": "HD",
+      "start_time": "2025-11-15T11:57:16.832660",
+      "status": "success",
+      "duration": 17.7200710773468,
+      "end_time": "2025-11-15T11:57:34.552804"
+    },
+    {
+      "symbol": "HIG",
+      "start_time": "2025-11-15T11:57:34.553260",
+      "status": "success",
+      "duration": 16.030700206756592,
+      "end_time": "2025-11-15T11:57:50.584022"
+    },
+    {
+      "symbol": "HII",
+      "start_time": "2025-11-15T11:57:50.584616",
+      "status": "success",
+      "duration": 16.325577974319458,
+      "end_time": "2025-11-15T11:58:06.910252"
+    },
+    {
+      "symbol": "HLT",
+      "start_time": "2025-11-15T11:58:06.910529",
+      "status": "success",
+      "duration": 16.895704984664917,
+      "end_time": "2025-11-15T11:58:23.806290"
+    },
+    {
+      "symbol": "HOLX",
+      "start_time": "2025-11-15T11:58:23.806598",
+      "status": "success",
+      "duration": 16.850730895996094,
+      "end_time": "2025-11-15T11:58:40.657427"
+    },
+    {
+      "symbol": "HON",
+      "start_time": "2025-11-15T11:58:40.658121",
+      "status": "success",
+      "duration": 15.334097146987915,
+      "end_time": "2025-11-15T11:58:55.992285"
+    },
+    {
+      "symbol": "HOOD",
+      "start_time": "2025-11-15T11:58:55.995472",
+      "status": "failed",
+      "duration": 1.8536510467529297,
+      "error": "es/sklearn/model_selection/_split.py\", line 806, in _make_test_folds\n    raise ValueError(\n    ...<2 lines>...\n    )\nValueError: n_splits=5 cannot be greater than the number of members in each class.\n",
+      "end_time": "2025-11-15T11:58:57.849183"
+    },
+    {
+      "symbol": "HPE",
+      "start_time": "2025-11-15T11:58:57.849320",
+      "status": "success",
+      "duration": 14.937119007110596,
+      "end_time": "2025-11-15T11:59:12.786499"
+    },
+    {
+      "symbol": "HPQ",
+      "start_time": "2025-11-15T11:59:12.786872",
+      "status": "success",
+      "duration": 17.00017499923706,
+      "end_time": "2025-11-15T11:59:29.787099"
+    },
+    {
+      "symbol": "HRL",
+      "start_time": "2025-11-15T11:59:29.787626",
+      "status": "success",
+      "duration": 16.0769100189209,
+      "end_time": "2025-11-15T11:59:45.864607"
+    },
+    {
+      "symbol": "HSIC",
+      "start_time": "2025-11-15T11:59:45.864900",
+      "status": "success",
+      "duration": 16.497277975082397,
+      "end_time": "2025-11-15T12:00:02.362242"
+    },
+    {
+      "symbol": "HST",
+      "start_time": "2025-11-15T12:00:02.362613",
+      "status": "success",
+      "duration": 14.595558881759644,
+      "end_time": "2025-11-15T12:00:16.958233"
+    },
+    {
+      "symbol": "HUBB",
+      "start_time": "2025-11-15T12:00:16.958985",
+      "status": "success",
+      "duration": 15.602900981903076,
+      "end_time": "2025-11-15T12:00:32.561937"
+    },
+    {
+      "symbol": "HWM",
+      "start_time": "2025-11-15T12:00:32.562257",
+      "status": "success",
+      "duration": 18.478968143463135,
+      "end_time": "2025-11-15T12:00:51.041292"
+    },
+    {
+      "symbol": "IBKR",
+      "start_time": "2025-11-15T12:00:51.041638",
+      "status": "success",
+      "duration": 15.374182224273682,
+      "end_time": "2025-11-15T12:01:06.415885"
+    },
+    {
+      "symbol": "IBM",
+      "start_time": "2025-11-15T12:01:06.416291",
+      "status": "success",
+      "duration": 13.443607091903687,
+      "end_time": "2025-11-15T12:01:19.859956"
+    },
+    {
+      "symbol": "ICE",
+      "start_time": "2025-11-15T12:01:19.860368",
+      "status": "success",
+      "duration": 14.421284914016724,
+      "end_time": "2025-11-15T12:01:34.281713"
+    },
+    {
+      "symbol": "IDXX",
+      "start_time": "2025-11-15T12:01:34.282157",
+      "status": "success",
+      "duration": 16.035799026489258,
+      "end_time": "2025-11-15T12:01:50.318023"
+    },
+    {
+      "symbol": "IEX",
+      "start_time": "2025-11-15T12:01:50.318190",
+      "status": "success",
+      "duration": 15.717084884643555,
+      "end_time": "2025-11-15T12:02:06.035341"
+    },
+    {
+      "symbol": "IFF",
+      "start_time": "2025-11-15T12:02:06.035695",
+      "status": "success",
+      "duration": 13.225097894668579,
+      "end_time": "2025-11-15T12:02:19.260852"
+    },
+    {
+      "symbol": "INCY",
+      "start_time": "2025-11-15T12:02:19.261184",
+      "status": "success",
+      "duration": 14.395318031311035,
+      "end_time": "2025-11-15T12:02:33.656565"
+    },
+    {
+      "symbol": "INTC",
+      "start_time": "2025-11-15T12:02:33.656920",
+      "status": "success",
+      "duration": 15.422137975692749,
+      "end_time": "2025-11-15T12:02:49.079123"
+    },
+    {
+      "symbol": "INTU",
+      "start_time": "2025-11-15T12:02:49.079496",
+      "status": "success",
+      "duration": 13.39123010635376,
+      "end_time": "2025-11-15T12:03:02.470808"
+    },
+    {
+      "symbol": "INVH",
+      "start_time": "2025-11-15T12:03:02.471193",
+      "status": "success",
+      "duration": 13.47155475616455,
+      "end_time": "2025-11-15T12:03:15.942805"
+    },
+    {
+      "symbol": "IP",
+      "start_time": "2025-11-15T12:03:15.944273",
+      "status": "success",
+      "duration": 14.148481845855713,
+      "end_time": "2025-11-15T12:03:30.092808"
+    },
+    {
+      "symbol": "IPG",
+      "start_time": "2025-11-15T12:03:30.093183",
+      "status": "success",
+      "duration": 14.403754949569702,
+      "end_time": "2025-11-15T12:03:44.496998"
+    },
+    {
+      "symbol": "IRM",
+      "start_time": "2025-11-15T12:03:44.497392",
+      "status": "success",
+      "duration": 14.617281675338745,
+      "end_time": "2025-11-15T12:03:59.114739"
+    },
+    {
+      "symbol": "ISRG",
+      "start_time": "2025-11-15T12:03:59.115104",
+      "status": "success",
+      "duration": 14.69861912727356,
+      "end_time": "2025-11-15T12:04:13.813770"
+    },
+    {
+      "symbol": "IT",
+      "start_time": "2025-11-15T12:04:13.818121",
+      "status": "success",
+      "duration": 14.160413026809692,
+      "end_time": "2025-11-15T12:04:27.978588"
+    },
+    {
+      "symbol": "J",
+      "start_time": "2025-11-15T12:04:27.979432",
+      "status": "success",
+      "duration": 13.842113971710205,
+      "end_time": "2025-11-15T12:04:41.822037"
+    },
+    {
+      "symbol": "JBHT",
+      "start_time": "2025-11-15T12:04:41.822324",
+      "status": "success",
+      "duration": 14.659147024154663,
+      "end_time": "2025-11-15T12:04:56.481528"
+    },
+    {
+      "symbol": "JBL",
+      "start_time": "2025-11-15T12:04:56.481923",
+      "status": "success",
+      "duration": 13.2326819896698,
+      "end_time": "2025-11-15T12:05:09.714663"
+    },
+    {
+      "symbol": "JCI",
+      "start_time": "2025-11-15T12:05:09.714805",
+      "status": "success",
+      "duration": 14.239779233932495,
+      "end_time": "2025-11-15T12:05:23.954640"
+    },
+    {
+      "symbol": "JKHY",
+      "start_time": "2025-11-15T12:05:23.954968",
+      "status": "success",
+      "duration": 14.59682297706604,
+      "end_time": "2025-11-15T12:05:38.551868"
+    },
+    {
+      "symbol": "JNJ",
+      "start_time": "2025-11-15T12:05:38.552278",
+      "status": "failed",
+      "duration": 11.806051015853882,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:05:50.358385"
+    },
+    {
+      "symbol": "K",
+      "start_time": "2025-11-15T12:05:50.358786",
+      "status": "success",
+      "duration": 14.855227947235107,
+      "end_time": "2025-11-15T12:06:05.214067"
+    },
+    {
+      "symbol": "KDP",
+      "start_time": "2025-11-15T12:06:05.215856",
+      "status": "success",
+      "duration": 15.517683029174805,
+      "end_time": "2025-11-15T12:06:20.733648"
+    },
+    {
+      "symbol": "KEY",
+      "start_time": "2025-11-15T12:06:20.734442",
+      "status": "success",
+      "duration": 14.148506164550781,
+      "end_time": "2025-11-15T12:06:34.883003"
+    },
+    {
+      "symbol": "KEYS",
+      "start_time": "2025-11-15T12:06:34.883395",
+      "status": "success",
+      "duration": 16.724024772644043,
+      "end_time": "2025-11-15T12:06:51.607470"
+    },
+    {
+      "symbol": "KHC",
+      "start_time": "2025-11-15T12:06:51.607813",
+      "status": "success",
+      "duration": 14.845101833343506,
+      "end_time": "2025-11-15T12:07:06.452991"
+    },
+    {
+      "symbol": "KIM",
+      "start_time": "2025-11-15T12:07:06.453310",
+      "status": "success",
+      "duration": 14.393842935562134,
+      "end_time": "2025-11-15T12:07:20.847222"
+    },
+    {
+      "symbol": "KKR",
+      "start_time": "2025-11-15T12:07:20.847653",
+      "status": "success",
+      "duration": 16.27027988433838,
+      "end_time": "2025-11-15T12:07:37.118002"
+    },
+    {
+      "symbol": "KLAC",
+      "start_time": "2025-11-15T12:07:37.118613",
+      "status": "success",
+      "duration": 15.872704982757568,
+      "end_time": "2025-11-15T12:07:52.991378"
+    },
+    {
+      "symbol": "KMB",
+      "start_time": "2025-11-15T12:07:52.991877",
+      "status": "success",
+      "duration": 14.215174913406372,
+      "end_time": "2025-11-15T12:08:07.207117"
+    },
+    {
+      "symbol": "KMI",
+      "start_time": "2025-11-15T12:08:07.207402",
+      "status": "success",
+      "duration": 13.935224056243896,
+      "end_time": "2025-11-15T12:08:21.142676"
+    },
+    {
+      "symbol": "KO",
+      "start_time": "2025-11-15T12:08:21.143049",
+      "status": "success",
+      "duration": 15.02684211730957,
+      "end_time": "2025-11-15T12:08:36.169956"
+    },
+    {
+      "symbol": "KR",
+      "start_time": "2025-11-15T12:08:36.170318",
+      "status": "success",
+      "duration": 18.153866052627563,
+      "end_time": "2025-11-15T12:08:54.324247"
+    },
+    {
+      "symbol": "KVUE",
+      "start_time": "2025-11-15T12:08:54.324587",
+      "status": "failed",
+      "duration": 2.3382458686828613,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:08:56.662890"
+    },
+    {
+      "symbol": "L",
+      "start_time": "2025-11-15T12:08:56.663181",
+      "status": "success",
+      "duration": 16.287271738052368,
+      "end_time": "2025-11-15T12:09:12.950519"
+    },
+    {
+      "symbol": "LDOS",
+      "start_time": "2025-11-15T12:09:12.950868",
+      "status": "success",
+      "duration": 20.102108240127563,
+      "end_time": "2025-11-15T12:09:33.053023"
+    },
+    {
+      "symbol": "LEN",
+      "start_time": "2025-11-15T12:09:33.053384",
+      "status": "success",
+      "duration": 18.72679829597473,
+      "end_time": "2025-11-15T12:09:51.780510"
+    },
+    {
+      "symbol": "LH",
+      "start_time": "2025-11-15T12:09:51.780809",
+      "status": "success",
+      "duration": 16.89739203453064,
+      "end_time": "2025-11-15T12:10:08.678295"
+    },
+    {
+      "symbol": "LHX",
+      "start_time": "2025-11-15T12:10:08.678670",
+      "status": "success",
+      "duration": 15.198745012283325,
+      "end_time": "2025-11-15T12:10:23.877490"
+    },
+    {
+      "symbol": "LII",
+      "start_time": "2025-11-15T12:10:23.879870",
+      "status": "success",
+      "duration": 17.020691871643066,
+      "end_time": "2025-11-15T12:10:40.900629"
+    },
+    {
+      "symbol": "LIN",
+      "start_time": "2025-11-15T12:10:40.900924",
+      "status": "failed",
+      "duration": 14.46544599533081,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:10:55.366448"
+    },
+    {
+      "symbol": "LKQ",
+      "start_time": "2025-11-15T12:10:55.366794",
+      "status": "success",
+      "duration": 16.033644199371338,
+      "end_time": "2025-11-15T12:11:11.400498"
+    },
+    {
+      "symbol": "LLY",
+      "start_time": "2025-11-15T12:11:11.400850",
+      "status": "success",
+      "duration": 17.183677196502686,
+      "end_time": "2025-11-15T12:11:28.584597"
+    },
+    {
+      "symbol": "LNT",
+      "start_time": "2025-11-15T12:11:28.584895",
+      "status": "success",
+      "duration": 16.091346979141235,
+      "end_time": "2025-11-15T12:11:44.676318"
+    },
+    {
+      "symbol": "LOW",
+      "start_time": "2025-11-15T12:11:44.676653",
+      "status": "success",
+      "duration": 16.526115655899048,
+      "end_time": "2025-11-15T12:12:01.202826"
+    },
+    {
+      "symbol": "LRCX",
+      "start_time": "2025-11-15T12:12:01.203092",
+      "status": "success",
+      "duration": 17.01697015762329,
+      "end_time": "2025-11-15T12:12:18.220488"
+    },
+    {
+      "symbol": "LULU",
+      "start_time": "2025-11-15T12:12:18.220812",
+      "status": "success",
+      "duration": 16.741626262664795,
+      "end_time": "2025-11-15T12:12:34.962505"
+    },
+    {
+      "symbol": "LUV",
+      "start_time": "2025-11-15T12:12:34.962856",
+      "status": "success",
+      "duration": 17.319758892059326,
+      "end_time": "2025-11-15T12:12:52.282669"
+    },
+    {
+      "symbol": "LVS",
+      "start_time": "2025-11-15T12:12:52.283037",
+      "status": "success",
+      "duration": 17.119965076446533,
+      "end_time": "2025-11-15T12:13:09.403067"
+    },
+    {
+      "symbol": "LW",
+      "start_time": "2025-11-15T12:13:09.403422",
+      "status": "success",
+      "duration": 15.713908910751343,
+      "end_time": "2025-11-15T12:13:25.117392"
+    },
+    {
+      "symbol": "LYB",
+      "start_time": "2025-11-15T12:13:25.117721",
+      "status": "success",
+      "duration": 16.110754013061523,
+      "end_time": "2025-11-15T12:13:41.228537"
+    },
+    {
+      "symbol": "LYV",
+      "start_time": "2025-11-15T12:13:41.228826",
+      "status": "success",
+      "duration": 19.07224988937378,
+      "end_time": "2025-11-15T12:14:00.301136"
+    },
+    {
+      "symbol": "MA",
+      "start_time": "2025-11-15T12:14:00.302579",
+      "status": "success",
+      "duration": 16.07839608192444,
+      "end_time": "2025-11-15T12:14:16.381035"
+    },
+    {
+      "symbol": "MAA",
+      "start_time": "2025-11-15T12:14:16.381418",
+      "status": "success",
+      "duration": 16.2694149017334,
+      "end_time": "2025-11-15T12:14:32.650883"
+    },
+    {
+      "symbol": "MAR",
+      "start_time": "2025-11-15T12:14:32.651199",
+      "status": "success",
+      "duration": 19.257805109024048,
+      "end_time": "2025-11-15T12:14:51.909063"
+    },
+    {
+      "symbol": "MAS",
+      "start_time": "2025-11-15T12:14:51.909386",
+      "status": "success",
+      "duration": 16.479923963546753,
+      "end_time": "2025-11-15T12:15:08.389365"
+    },
+    {
+      "symbol": "MCD",
+      "start_time": "2025-11-15T12:15:08.389662",
+      "status": "success",
+      "duration": 16.74725317955017,
+      "end_time": "2025-11-15T12:15:25.136959"
+    },
+    {
+      "symbol": "MCHP",
+      "start_time": "2025-11-15T12:15:25.137260",
+      "status": "success",
+      "duration": 16.41614603996277,
+      "end_time": "2025-11-15T12:15:41.553453"
+    },
+    {
+      "symbol": "MCK",
+      "start_time": "2025-11-15T12:15:41.554313",
+      "status": "success",
+      "duration": 17.751036882400513,
+      "end_time": "2025-11-15T12:15:59.305436"
+    },
+    {
+      "symbol": "MCO",
+      "start_time": "2025-11-15T12:15:59.305853",
+      "status": "success",
+      "duration": 16.765851259231567,
+      "end_time": "2025-11-15T12:16:16.071761"
+    },
+    {
+      "symbol": "MDLZ",
+      "start_time": "2025-11-15T12:16:16.072083",
+      "status": "success",
+      "duration": 17.01665735244751,
+      "end_time": "2025-11-15T12:16:33.088819"
+    },
+    {
+      "symbol": "MDT",
+      "start_time": "2025-11-15T12:16:33.089180",
+      "status": "success",
+      "duration": 15.564308166503906,
+      "end_time": "2025-11-15T12:16:48.653566"
+    },
+    {
+      "symbol": "MET",
+      "start_time": "2025-11-15T12:16:48.653967",
+      "status": "success",
+      "duration": 18.936831951141357,
+      "end_time": "2025-11-15T12:17:07.590867"
+    },
+    {
+      "symbol": "META",
+      "start_time": "2025-11-15T12:17:07.591185",
+      "status": "success",
+      "duration": 16.68152904510498,
+      "end_time": "2025-11-15T12:17:24.277011"
+    },
+    {
+      "symbol": "MGM",
+      "start_time": "2025-11-15T12:17:24.283307",
+      "status": "success",
+      "duration": 15.98591423034668,
+      "end_time": "2025-11-15T12:17:40.269308"
+    },
+    {
+      "symbol": "MHK",
+      "start_time": "2025-11-15T12:17:40.269625",
+      "status": "success",
+      "duration": 17.675847053527832,
+      "end_time": "2025-11-15T12:17:57.945772"
+    },
+    {
+      "symbol": "MKC",
+      "start_time": "2025-11-15T12:17:57.946131",
+      "status": "success",
+      "duration": 17.45347499847412,
+      "end_time": "2025-11-15T12:18:15.399942"
+    },
+    {
+      "symbol": "MLM",
+      "start_time": "2025-11-15T12:18:15.400227",
+      "status": "success",
+      "duration": 16.697818994522095,
+      "end_time": "2025-11-15T12:18:32.098112"
+    },
+    {
+      "symbol": "MMC",
+      "start_time": "2025-11-15T12:18:32.098406",
+      "status": "success",
+      "duration": 16.948692083358765,
+      "end_time": "2025-11-15T12:18:49.047164"
+    },
+    {
+      "symbol": "MMM",
+      "start_time": "2025-11-15T12:18:49.047478",
+      "status": "success",
+      "duration": 16.630069971084595,
+      "end_time": "2025-11-15T12:19:05.677621"
+    },
+    {
+      "symbol": "MNST",
+      "start_time": "2025-11-15T12:19:05.677972",
+      "status": "success",
+      "duration": 15.213940858840942,
+      "end_time": "2025-11-15T12:19:20.891973"
+    },
+    {
+      "symbol": "MO",
+      "start_time": "2025-11-15T12:19:20.892141",
+      "status": "success",
+      "duration": 17.26239776611328,
+      "end_time": "2025-11-15T12:19:38.154594"
+    },
+    {
+      "symbol": "MOH",
+      "start_time": "2025-11-15T12:19:38.156446",
+      "status": "success",
+      "duration": 20.92202091217041,
+      "end_time": "2025-11-15T12:19:59.078819"
+    },
+    {
+      "symbol": "MOS",
+      "start_time": "2025-11-15T12:19:59.079270",
+      "status": "success",
+      "duration": 16.955321788787842,
+      "end_time": "2025-11-15T12:20:16.034655"
+    },
+    {
+      "symbol": "MPC",
+      "start_time": "2025-11-15T12:20:16.035294",
+      "status": "success",
+      "duration": 15.8351571559906,
+      "end_time": "2025-11-15T12:20:31.870517"
+    },
+    {
+      "symbol": "MPWR",
+      "start_time": "2025-11-15T12:20:31.870873",
+      "status": "success",
+      "duration": 19.992854118347168,
+      "end_time": "2025-11-15T12:20:51.864191"
+    },
+    {
+      "symbol": "MRK",
+      "start_time": "2025-11-15T12:20:51.864484",
+      "status": "success",
+      "duration": 15.650108814239502,
+      "end_time": "2025-11-15T12:21:07.514662"
+    },
+    {
+      "symbol": "MRNA",
+      "start_time": "2025-11-15T12:21:07.514937",
+      "status": "success",
+      "duration": 18.729475021362305,
+      "end_time": "2025-11-15T12:21:26.244484"
+    },
+    {
+      "symbol": "MS",
+      "start_time": "2025-11-15T12:21:26.244855",
+      "status": "success",
+      "duration": 16.617596864700317,
+      "end_time": "2025-11-15T12:21:42.862506"
+    },
+    {
+      "symbol": "MSCI",
+      "start_time": "2025-11-15T12:21:42.862790",
+      "status": "failed",
+      "duration": 12.681488037109375,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:21:55.544371"
+    },
+    {
+      "symbol": "MSFT",
+      "start_time": "2025-11-15T12:21:55.544750",
+      "status": "success",
+      "duration": 17.76893401145935,
+      "end_time": "2025-11-15T12:22:13.313735"
+    },
+    {
+      "symbol": "MSI",
+      "start_time": "2025-11-15T12:22:13.314059",
+      "status": "failed",
+      "duration": 11.678571939468384,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:22:24.992693"
+    },
+    {
+      "symbol": "MTB",
+      "start_time": "2025-11-15T12:22:24.994545",
+      "status": "success",
+      "duration": 21.81644082069397,
+      "end_time": "2025-11-15T12:22:46.811035"
+    },
+    {
+      "symbol": "MTCH",
+      "start_time": "2025-11-15T12:22:46.812874",
+      "status": "success",
+      "duration": 16.412405967712402,
+      "end_time": "2025-11-15T12:23:03.225329"
+    },
+    {
+      "symbol": "MTD",
+      "start_time": "2025-11-15T12:23:03.225639",
+      "status": "failed",
+      "duration": 11.972265005111694,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:23:15.197968"
+    },
+    {
+      "symbol": "NCLH",
+      "start_time": "2025-11-15T12:23:15.198402",
+      "status": "success",
+      "duration": 15.264458894729614,
+      "end_time": "2025-11-15T12:23:30.462935"
+    },
+    {
+      "symbol": "NDAQ",
+      "start_time": "2025-11-15T12:23:30.463243",
+      "status": "success",
+      "duration": 15.127364873886108,
+      "end_time": "2025-11-15T12:23:45.590668"
+    },
+    {
+      "symbol": "NDSN",
+      "start_time": "2025-11-15T12:23:45.591019",
+      "status": "success",
+      "duration": 14.286806106567383,
+      "end_time": "2025-11-15T12:23:59.877872"
+    },
+    {
+      "symbol": "NEE",
+      "start_time": "2025-11-15T12:23:59.878595",
+      "status": "success",
+      "duration": 16.817701816558838,
+      "end_time": "2025-11-15T12:24:16.696355"
+    },
+    {
+      "symbol": "NEM",
+      "start_time": "2025-11-15T12:24:16.696642",
+      "status": "success",
+      "duration": 19.542192935943604,
+      "end_time": "2025-11-15T12:24:36.239356"
+    },
+    {
+      "symbol": "NFLX",
+      "start_time": "2025-11-15T12:24:36.240483",
+      "status": "success",
+      "duration": 15.945324897766113,
+      "end_time": "2025-11-15T12:24:52.186383"
+    },
+    {
+      "symbol": "NI",
+      "start_time": "2025-11-15T12:24:52.186787",
+      "status": "success",
+      "duration": 17.067466020584106,
+      "end_time": "2025-11-15T12:25:09.254312"
+    },
+    {
+      "symbol": "NOC",
+      "start_time": "2025-11-15T12:25:09.254845",
+      "status": "success",
+      "duration": 15.477809190750122,
+      "end_time": "2025-11-15T12:25:24.732721"
+    },
+    {
+      "symbol": "NOW",
+      "start_time": "2025-11-15T12:25:24.733076",
+      "status": "failed",
+      "duration": 15.956757068634033,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:25:40.689905"
+    },
+    {
+      "symbol": "NRG",
+      "start_time": "2025-11-15T12:25:40.690167",
+      "status": "success",
+      "duration": 14.798866987228394,
+      "end_time": "2025-11-15T12:25:55.489090"
+    },
+    {
+      "symbol": "NSC",
+      "start_time": "2025-11-15T12:25:55.489400",
+      "status": "success",
+      "duration": 16.54312515258789,
+      "end_time": "2025-11-15T12:26:12.032575"
+    },
+    {
+      "symbol": "NTAP",
+      "start_time": "2025-11-15T12:26:12.032887",
+      "status": "success",
+      "duration": 13.371787071228027,
+      "end_time": "2025-11-15T12:26:25.404734"
+    },
+    {
+      "symbol": "NTRS",
+      "start_time": "2025-11-15T12:26:25.405064",
+      "status": "success",
+      "duration": 17.299199104309082,
+      "end_time": "2025-11-15T12:26:42.704804"
+    },
+    {
+      "symbol": "NVDA",
+      "start_time": "2025-11-15T12:26:42.705045",
+      "status": "success",
+      "duration": 15.983625888824463,
+      "end_time": "2025-11-15T12:26:58.688725"
+    },
+    {
+      "symbol": "NVR",
+      "start_time": "2025-11-15T12:26:58.689055",
+      "status": "success",
+      "duration": 14.477750062942505,
+      "end_time": "2025-11-15T12:27:13.166865"
+    },
+    {
+      "symbol": "NWS",
+      "start_time": "2025-11-15T12:27:13.167279",
+      "status": "failed",
+      "duration": 1.9190289974212646,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:27:15.086370"
+    },
+    {
+      "symbol": "NWSA",
+      "start_time": "2025-11-15T12:27:15.086508",
+      "status": "success",
+      "duration": 14.171520948410034,
+      "end_time": "2025-11-15T12:27:29.258091"
+    },
+    {
+      "symbol": "NXPI",
+      "start_time": "2025-11-15T12:27:29.259066",
+      "status": "success",
+      "duration": 16.43609070777893,
+      "end_time": "2025-11-15T12:27:45.695727"
+    },
+    {
+      "symbol": "O",
+      "start_time": "2025-11-15T12:27:45.696362",
+      "status": "success",
+      "duration": 18.276230096817017,
+      "end_time": "2025-11-15T12:28:03.972677"
+    },
+    {
+      "symbol": "ODFL",
+      "start_time": "2025-11-15T12:28:03.973342",
+      "status": "success",
+      "duration": 16.140269994735718,
+      "end_time": "2025-11-15T12:28:20.113668"
+    },
+    {
+      "symbol": "OKE",
+      "start_time": "2025-11-15T12:28:20.114400",
+      "status": "success",
+      "duration": 18.926576137542725,
+      "end_time": "2025-11-15T12:28:39.041051"
+    },
+    {
+      "symbol": "OMC",
+      "start_time": "2025-11-15T12:28:39.041307",
+      "status": "success",
+      "duration": 15.955756902694702,
+      "end_time": "2025-11-15T12:28:54.997111"
+    },
+    {
+      "symbol": "ON",
+      "start_time": "2025-11-15T12:28:54.997414",
+      "status": "success",
+      "duration": 17.237653732299805,
+      "end_time": "2025-11-15T12:29:12.235123"
+    },
+    {
+      "symbol": "ORCL",
+      "start_time": "2025-11-15T12:29:12.235452",
+      "status": "success",
+      "duration": 16.27182412147522,
+      "end_time": "2025-11-15T12:29:28.507336"
+    },
+    {
+      "symbol": "ORLY",
+      "start_time": "2025-11-15T12:29:28.507746",
+      "status": "success",
+      "duration": 19.328644037246704,
+      "end_time": "2025-11-15T12:29:47.836466"
+    },
+    {
+      "symbol": "OTIS",
+      "start_time": "2025-11-15T12:29:47.836763",
+      "status": "success",
+      "duration": 17.598416805267334,
+      "end_time": "2025-11-15T12:30:05.435232"
+    },
+    {
+      "symbol": "PANW",
+      "start_time": "2025-11-15T12:30:05.435621",
+      "status": "success",
+      "duration": 15.615269899368286,
+      "end_time": "2025-11-15T12:30:21.050972"
+    },
+    {
+      "symbol": "PAYX",
+      "start_time": "2025-11-15T12:30:21.052568",
+      "status": "success",
+      "duration": 18.488346815109253,
+      "end_time": "2025-11-15T12:30:39.541211"
+    },
+    {
+      "symbol": "PCAR",
+      "start_time": "2025-11-15T12:30:39.541469",
+      "status": "success",
+      "duration": 19.210794925689697,
+      "end_time": "2025-11-15T12:30:58.752465"
+    },
+    {
+      "symbol": "PCG",
+      "start_time": "2025-11-15T12:30:58.753170",
+      "status": "success",
+      "duration": 20.97003436088562,
+      "end_time": "2025-11-15T12:31:19.723278"
+    },
+    {
+      "symbol": "PEG",
+      "start_time": "2025-11-15T12:31:19.723538",
+      "status": "success",
+      "duration": 18.842040061950684,
+      "end_time": "2025-11-15T12:31:38.565655"
+    },
+    {
+      "symbol": "PEP",
+      "start_time": "2025-11-15T12:31:38.566108",
+      "status": "success",
+      "duration": 20.477885007858276,
+      "end_time": "2025-11-15T12:31:59.044049"
+    },
+    {
+      "symbol": "PFE",
+      "start_time": "2025-11-15T12:31:59.047773",
+      "status": "success",
+      "duration": 18.41950511932373,
+      "end_time": "2025-11-15T12:32:17.467335"
+    },
+    {
+      "symbol": "PFG",
+      "start_time": "2025-11-15T12:32:17.467614",
+      "status": "success",
+      "duration": 16.91077494621277,
+      "end_time": "2025-11-15T12:32:34.378450"
+    },
+    {
+      "symbol": "PG",
+      "start_time": "2025-11-15T12:32:34.378877",
+      "status": "success",
+      "duration": 18.68393325805664,
+      "end_time": "2025-11-15T12:32:53.063132"
+    },
+    {
+      "symbol": "PGR",
+      "start_time": "2025-11-15T12:32:53.063431",
+      "status": "success",
+      "duration": 16.464465141296387,
+      "end_time": "2025-11-15T12:33:09.527983"
+    },
+    {
+      "symbol": "PH",
+      "start_time": "2025-11-15T12:33:09.528382",
+      "status": "success",
+      "duration": 16.8770592212677,
+      "end_time": "2025-11-15T12:33:26.405511"
+    },
+    {
+      "symbol": "PKG",
+      "start_time": "2025-11-15T12:33:26.406535",
+      "status": "success",
+      "duration": 20.458712100982666,
+      "end_time": "2025-11-15T12:33:46.865307"
+    },
+    {
+      "symbol": "PLD",
+      "start_time": "2025-11-15T12:33:46.865649",
+      "status": "success",
+      "duration": 16.495965003967285,
+      "end_time": "2025-11-15T12:34:03.361688"
+    },
+    {
+      "symbol": "PLTR",
+      "start_time": "2025-11-15T12:34:03.362006",
+      "status": "success",
+      "duration": 16.35185217857361,
+      "end_time": "2025-11-15T12:34:19.713916"
+    },
+    {
+      "symbol": "PNR",
+      "start_time": "2025-11-15T12:34:19.714256",
+      "status": "success",
+      "duration": 16.981441020965576,
+      "end_time": "2025-11-15T12:34:36.695764"
+    },
+    {
+      "symbol": "PNW",
+      "start_time": "2025-11-15T12:34:36.696317",
+      "status": "success",
+      "duration": 18.736254930496216,
+      "end_time": "2025-11-15T12:34:55.433028"
+    },
+    {
+      "symbol": "POOL",
+      "start_time": "2025-11-15T12:34:55.433663",
+      "status": "success",
+      "duration": 15.348402976989746,
+      "end_time": "2025-11-15T12:35:10.782146"
+    },
+    {
+      "symbol": "PPG",
+      "start_time": "2025-11-15T12:35:10.782443",
+      "status": "success",
+      "duration": 18.305904865264893,
+      "end_time": "2025-11-15T12:35:29.088420"
+    },
+    {
+      "symbol": "PPL",
+      "start_time": "2025-11-15T12:35:29.088664",
+      "status": "success",
+      "duration": 17.570746898651123,
+      "end_time": "2025-11-15T12:35:46.659470"
+    },
+    {
+      "symbol": "PRU",
+      "start_time": "2025-11-15T12:35:46.659796",
+      "status": "success",
+      "duration": 17.046368837356567,
+      "end_time": "2025-11-15T12:36:03.706253"
+    },
+    {
+      "symbol": "PSA",
+      "start_time": "2025-11-15T12:36:03.706818",
+      "status": "success",
+      "duration": 17.238900184631348,
+      "end_time": "2025-11-15T12:36:20.945793"
+    },
+    {
+      "symbol": "PSKY",
+      "start_time": "2025-11-15T12:36:20.946635",
+      "status": "failed",
+      "duration": 0.46320676803588867,
+      "error": "s.get_loc(key)\n  File \"/Users/ibrahimfiratsoysal/Library/Python/3.14/lib/python/site-packages/pandas/core/indexes/base.py\", line 3819, in get_loc\n    raise KeyError(key) from err\nKeyError: 'eps_beat'\n",
+      "end_time": "2025-11-15T12:36:21.409864"
+    },
+    {
+      "symbol": "PSX",
+      "start_time": "2025-11-15T12:36:21.410183",
+      "status": "success",
+      "duration": 15.957206964492798,
+      "end_time": "2025-11-15T12:36:37.367460"
+    },
+    {
+      "symbol": "PTC",
+      "start_time": "2025-11-15T12:36:37.368443",
+      "status": "success",
+      "duration": 14.296102046966553,
+      "end_time": "2025-11-15T12:36:51.664621"
+    },
+    {
+      "symbol": "PWR",
+      "start_time": "2025-11-15T12:36:51.665033",
+      "status": "success",
+      "duration": 15.353727102279663,
+      "end_time": "2025-11-15T12:37:07.018844"
+    },
+    {
+      "symbol": "PYPL",
+      "start_time": "2025-11-15T12:37:07.019159",
+      "status": "success",
+      "duration": 15.19911503791809,
+      "end_time": "2025-11-15T12:37:22.218331"
+    },
+    {
+      "symbol": "QCOM",
+      "start_time": "2025-11-15T12:37:22.218715",
+      "status": "success",
+      "duration": 14.806826114654541,
+      "end_time": "2025-11-15T12:37:37.025622"
+    },
+    {
+      "symbol": "RCL",
+      "start_time": "2025-11-15T12:37:37.026021",
+      "status": "success",
+      "duration": 14.143923044204712,
+      "end_time": "2025-11-15T12:37:51.170009"
+    },
+    {
+      "symbol": "REG",
+      "start_time": "2025-11-15T12:37:51.170373",
+      "status": "success",
+      "duration": 14.378512859344482,
+      "end_time": "2025-11-15T12:38:05.548964"
+    },
+    {
+      "symbol": "REGN",
+      "start_time": "2025-11-15T12:38:05.549340",
+      "status": "success",
+      "duration": 14.852889060974121,
+      "end_time": "2025-11-15T12:38:20.402296"
+    },
+    {
+      "symbol": "RF",
+      "start_time": "2025-11-15T12:38:20.402441",
+      "status": "success",
+      "duration": 15.654545783996582,
+      "end_time": "2025-11-15T12:38:36.057049"
+    },
+    {
+      "symbol": "RJF",
+      "start_time": "2025-11-15T12:38:36.058166",
+      "status": "success",
+      "duration": 15.708106994628906,
+      "end_time": "2025-11-15T12:38:51.766321"
+    },
+    {
+      "symbol": "RL",
+      "start_time": "2025-11-15T12:38:51.766761",
+      "status": "success",
+      "duration": 13.980303049087524,
+      "end_time": "2025-11-15T12:39:05.747124"
+    },
+    {
+      "symbol": "RMD",
+      "start_time": "2025-11-15T12:39:05.747598",
+      "status": "success",
+      "duration": 14.183553218841553,
+      "end_time": "2025-11-15T12:39:19.931211"
+    },
+    {
+      "symbol": "ROK",
+      "start_time": "2025-11-15T12:39:19.931553",
+      "status": "success",
+      "duration": 13.893166065216064,
+      "end_time": "2025-11-15T12:39:33.824775"
+    },
+    {
+      "symbol": "ROL",
+      "start_time": "2025-11-15T12:39:33.825076",
+      "status": "success",
+      "duration": 16.95733094215393,
+      "end_time": "2025-11-15T12:39:50.782480"
+    },
+    {
+      "symbol": "ROP",
+      "start_time": "2025-11-15T12:39:50.782815",
+      "status": "failed",
+      "duration": 10.831331014633179,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:40:01.614195"
+    },
+    {
+      "symbol": "ROST",
+      "start_time": "2025-11-15T12:40:01.614465",
+      "status": "success",
+      "duration": 13.019020080566406,
+      "end_time": "2025-11-15T12:40:14.633549"
+    },
+    {
+      "symbol": "RSG",
+      "start_time": "2025-11-15T12:40:14.633917",
+      "status": "success",
+      "duration": 14.484946966171265,
+      "end_time": "2025-11-15T12:40:29.118934"
+    },
+    {
+      "symbol": "RTX",
+      "start_time": "2025-11-15T12:40:29.119284",
+      "status": "failed",
+      "duration": 11.990900993347168,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:40:41.110253"
+    },
+    {
+      "symbol": "RVTY",
+      "start_time": "2025-11-15T12:40:41.110529",
+      "status": "failed",
+      "duration": 1.7548139095306396,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:40:42.865381"
+    },
+    {
+      "symbol": "SBAC",
+      "start_time": "2025-11-15T12:40:42.865526",
+      "status": "success",
+      "duration": 13.967994213104248,
+      "end_time": "2025-11-15T12:40:56.833578"
+    },
+    {
+      "symbol": "SCHW",
+      "start_time": "2025-11-15T12:40:56.833974",
+      "status": "success",
+      "duration": 13.967219114303589,
+      "end_time": "2025-11-15T12:41:10.801242"
+    },
+    {
+      "symbol": "SHW",
+      "start_time": "2025-11-15T12:41:10.801596",
+      "status": "success",
+      "duration": 13.634053945541382,
+      "end_time": "2025-11-15T12:41:24.435726"
+    },
+    {
+      "symbol": "SJM",
+      "start_time": "2025-11-15T12:41:24.436129",
+      "status": "success",
+      "duration": 14.766924142837524,
+      "end_time": "2025-11-15T12:41:39.203124"
+    },
+    {
+      "symbol": "SLB",
+      "start_time": "2025-11-15T12:41:39.203438",
+      "status": "success",
+      "duration": 14.485108852386475,
+      "end_time": "2025-11-15T12:41:53.688626"
+    },
+    {
+      "symbol": "SMCI",
+      "start_time": "2025-11-15T12:41:53.689029",
+      "status": "success",
+      "duration": 14.636317014694214,
+      "end_time": "2025-11-15T12:42:08.325415"
+    },
+    {
+      "symbol": "SNA",
+      "start_time": "2025-11-15T12:42:08.325821",
+      "status": "success",
+      "duration": 14.010146141052246,
+      "end_time": "2025-11-15T12:42:22.336034"
+    },
+    {
+      "symbol": "SNPS",
+      "start_time": "2025-11-15T12:42:22.336443",
+      "status": "success",
+      "duration": 18.391552925109863,
+      "end_time": "2025-11-15T12:42:40.728060"
+    },
+    {
+      "symbol": "SO",
+      "start_time": "2025-11-15T12:42:40.728333",
+      "status": "success",
+      "duration": 15.619071960449219,
+      "end_time": "2025-11-15T12:42:56.347474"
+    },
+    {
+      "symbol": "SOLV",
+      "start_time": "2025-11-15T12:42:56.347854",
+      "status": "failed",
+      "duration": 1.990523099899292,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:42:58.338441"
+    },
+    {
+      "symbol": "SPG",
+      "start_time": "2025-11-15T12:42:58.339176",
+      "status": "success",
+      "duration": 16.619194984436035,
+      "end_time": "2025-11-15T12:43:14.958427"
+    },
+    {
+      "symbol": "SPGI",
+      "start_time": "2025-11-15T12:43:14.958746",
+      "status": "success",
+      "duration": 17.351710081100464,
+      "end_time": "2025-11-15T12:43:32.310519"
+    },
+    {
+      "symbol": "SRE",
+      "start_time": "2025-11-15T12:43:32.310871",
+      "status": "success",
+      "duration": 15.783994913101196,
+      "end_time": "2025-11-15T12:43:48.094933"
+    },
+    {
+      "symbol": "STE",
+      "start_time": "2025-11-15T12:43:48.095314",
+      "status": "success",
+      "duration": 15.617662906646729,
+      "end_time": "2025-11-15T12:44:03.713430"
+    },
+    {
+      "symbol": "STLD",
+      "start_time": "2025-11-15T12:44:03.713718",
+      "status": "success",
+      "duration": 15.855831146240234,
+      "end_time": "2025-11-15T12:44:19.569613"
+    },
+    {
+      "symbol": "STT",
+      "start_time": "2025-11-15T12:44:19.569948",
+      "status": "success",
+      "duration": 14.351150035858154,
+      "end_time": "2025-11-15T12:44:33.921153"
+    },
+    {
+      "symbol": "STX",
+      "start_time": "2025-11-15T12:44:33.921511",
+      "status": "success",
+      "duration": 14.744479894638062,
+      "end_time": "2025-11-15T12:44:48.666057"
+    },
+    {
+      "symbol": "STZ",
+      "start_time": "2025-11-15T12:44:48.666412",
+      "status": "success",
+      "duration": 14.56800889968872,
+      "end_time": "2025-11-15T12:45:03.234485"
+    },
+    {
+      "symbol": "SW",
+      "start_time": "2025-11-15T12:45:03.234823",
+      "status": "failed",
+      "duration": 1.8189959526062012,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:45:05.053869"
+    },
+    {
+      "symbol": "SWK",
+      "start_time": "2025-11-15T12:45:05.054025",
+      "status": "success",
+      "duration": 14.796797037124634,
+      "end_time": "2025-11-15T12:45:19.850879"
+    },
+    {
+      "symbol": "SWKS",
+      "start_time": "2025-11-15T12:45:19.852488",
+      "status": "success",
+      "duration": 19.809550046920776,
+      "end_time": "2025-11-15T12:45:39.662136"
+    },
+    {
+      "symbol": "SYF",
+      "start_time": "2025-11-15T12:45:39.662638",
+      "status": "success",
+      "duration": 22.11708903312683,
+      "end_time": "2025-11-15T12:46:01.779776"
+    },
+    {
+      "symbol": "SYK",
+      "start_time": "2025-11-15T12:46:01.780037",
+      "status": "success",
+      "duration": 16.674230575561523,
+      "end_time": "2025-11-15T12:46:18.454339"
+    },
+    {
+      "symbol": "SYY",
+      "start_time": "2025-11-15T12:46:18.454599",
+      "status": "success",
+      "duration": 14.50915002822876,
+      "end_time": "2025-11-15T12:46:32.963797"
+    },
+    {
+      "symbol": "T",
+      "start_time": "2025-11-15T12:46:32.964099",
+      "status": "success",
+      "duration": 18.885411262512207,
+      "end_time": "2025-11-15T12:46:51.849568"
+    },
+    {
+      "symbol": "TAP",
+      "start_time": "2025-11-15T12:46:51.849903",
+      "status": "success",
+      "duration": 14.727141857147217,
+      "end_time": "2025-11-15T12:47:06.577090"
+    },
+    {
+      "symbol": "TDG",
+      "start_time": "2025-11-15T12:47:06.577453",
+      "status": "success",
+      "duration": 13.684301853179932,
+      "end_time": "2025-11-15T12:47:20.261804"
+    },
+    {
+      "symbol": "TDY",
+      "start_time": "2025-11-15T12:47:20.262661",
+      "status": "failed",
+      "duration": 12.012279748916626,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:47:32.274992"
+    },
+    {
+      "symbol": "TECH",
+      "start_time": "2025-11-15T12:47:32.275695",
+      "status": "success",
+      "duration": 17.056446075439453,
+      "end_time": "2025-11-15T12:47:49.332217"
+    },
+    {
+      "symbol": "TEL",
+      "start_time": "2025-11-15T12:47:49.332479",
+      "status": "success",
+      "duration": 15.170732021331787,
+      "end_time": "2025-11-15T12:48:04.503275"
+    },
+    {
+      "symbol": "TER",
+      "start_time": "2025-11-15T12:48:04.504038",
+      "status": "failed",
+      "duration": 12.32382583618164,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:48:16.827913"
+    },
+    {
+      "symbol": "TFC",
+      "start_time": "2025-11-15T12:48:16.829158",
+      "status": "success",
+      "duration": 15.004409790039062,
+      "end_time": "2025-11-15T12:48:31.833894"
+    },
+    {
+      "symbol": "TGT",
+      "start_time": "2025-11-15T12:48:31.834151",
+      "status": "success",
+      "duration": 20.21745991706848,
+      "end_time": "2025-11-15T12:48:52.051662"
+    },
+    {
+      "symbol": "TJX",
+      "start_time": "2025-11-15T12:48:52.052158",
+      "status": "success",
+      "duration": 15.81877613067627,
+      "end_time": "2025-11-15T12:49:07.871264"
+    },
+    {
+      "symbol": "TKO",
+      "start_time": "2025-11-15T12:49:07.872013",
+      "status": "failed",
+      "duration": 2.116792917251587,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:49:09.989110"
+    },
+    {
+      "symbol": "TMO",
+      "start_time": "2025-11-15T12:49:09.989554",
+      "status": "failed",
+      "duration": 10.96468186378479,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:49:20.954300"
+    },
+    {
+      "symbol": "TMUS",
+      "start_time": "2025-11-15T12:49:20.955053",
+      "status": "failed",
+      "duration": 11.118296146392822,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:49:32.073407"
+    },
+    {
+      "symbol": "TPL",
+      "start_time": "2025-11-15T12:49:32.073850",
+      "status": "success",
+      "duration": 16.186606884002686,
+      "end_time": "2025-11-15T12:49:48.260520"
+    },
+    {
+      "symbol": "TPR",
+      "start_time": "2025-11-15T12:49:48.260813",
+      "status": "success",
+      "duration": 16.055023908615112,
+      "end_time": "2025-11-15T12:50:04.315893"
+    },
+    {
+      "symbol": "TRGP",
+      "start_time": "2025-11-15T12:50:04.316274",
+      "status": "success",
+      "duration": 14.612009048461914,
+      "end_time": "2025-11-15T12:50:18.928337"
+    },
+    {
+      "symbol": "TRMB",
+      "start_time": "2025-11-15T12:50:18.928767",
+      "status": "success",
+      "duration": 16.24972105026245,
+      "end_time": "2025-11-15T12:50:35.178546"
+    },
+    {
+      "symbol": "TROW",
+      "start_time": "2025-11-15T12:50:35.178882",
+      "status": "success",
+      "duration": 16.2095730304718,
+      "end_time": "2025-11-15T12:50:51.388508"
+    },
+    {
+      "symbol": "TRV",
+      "start_time": "2025-11-15T12:50:51.388822",
+      "status": "success",
+      "duration": 15.0172758102417,
+      "end_time": "2025-11-15T12:51:06.406147"
+    },
+    {
+      "symbol": "TSCO",
+      "start_time": "2025-11-15T12:51:06.406723",
+      "status": "success",
+      "duration": 14.095371007919312,
+      "end_time": "2025-11-15T12:51:20.502156"
+    },
+    {
+      "symbol": "TSLA",
+      "start_time": "2025-11-15T12:51:20.502506",
+      "status": "success",
+      "duration": 13.713637113571167,
+      "end_time": "2025-11-15T12:51:34.216194"
+    },
+    {
+      "symbol": "TSN",
+      "start_time": "2025-11-15T12:51:34.216575",
+      "status": "success",
+      "duration": 18.15849018096924,
+      "end_time": "2025-11-15T12:51:52.375137"
+    },
+    {
+      "symbol": "TT",
+      "start_time": "2025-11-15T12:51:52.375447",
+      "status": "success",
+      "duration": 17.466688871383667,
+      "end_time": "2025-11-15T12:52:09.842220"
+    },
+    {
+      "symbol": "TTD",
+      "start_time": "2025-11-15T12:52:09.842795",
+      "status": "success",
+      "duration": 15.670584201812744,
+      "end_time": "2025-11-15T12:52:25.513458"
+    },
+    {
+      "symbol": "TTWO",
+      "start_time": "2025-11-15T12:52:25.513909",
+      "status": "success",
+      "duration": 19.312819004058838,
+      "end_time": "2025-11-15T12:52:44.826794"
+    },
+    {
+      "symbol": "TXN",
+      "start_time": "2025-11-15T12:52:44.827385",
+      "status": "failed",
+      "duration": 16.791964054107666,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:53:01.619406"
+    },
+    {
+      "symbol": "TXT",
+      "start_time": "2025-11-15T12:53:01.621030",
+      "status": "success",
+      "duration": 18.048631191253662,
+      "end_time": "2025-11-15T12:53:19.669729"
+    },
+    {
+      "symbol": "TYL",
+      "start_time": "2025-11-15T12:53:19.670075",
+      "status": "success",
+      "duration": 16.021097898483276,
+      "end_time": "2025-11-15T12:53:35.691231"
+    },
+    {
+      "symbol": "UAL",
+      "start_time": "2025-11-15T12:53:35.691644",
+      "status": "success",
+      "duration": 16.06195306777954,
+      "end_time": "2025-11-15T12:53:51.753679"
+    },
+    {
+      "symbol": "UBER",
+      "start_time": "2025-11-15T12:53:51.753958",
+      "status": "success",
+      "duration": 15.097805976867676,
+      "end_time": "2025-11-15T12:54:06.851828"
+    },
+    {
+      "symbol": "UDR",
+      "start_time": "2025-11-15T12:54:06.852232",
+      "status": "success",
+      "duration": 13.919281005859375,
+      "end_time": "2025-11-15T12:54:20.771574"
+    },
+    {
+      "symbol": "UHS",
+      "start_time": "2025-11-15T12:54:20.772182",
+      "status": "success",
+      "duration": 13.754650115966797,
+      "end_time": "2025-11-15T12:54:34.526883"
+    },
+    {
+      "symbol": "ULTA",
+      "start_time": "2025-11-15T12:54:34.527558",
+      "status": "success",
+      "duration": 16.994751930236816,
+      "end_time": "2025-11-15T12:54:51.522367"
+    },
+    {
+      "symbol": "UNH",
+      "start_time": "2025-11-15T12:54:51.522819",
+      "status": "failed",
+      "duration": 11.846306800842285,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:55:03.369188"
+    },
+    {
+      "symbol": "UNP",
+      "start_time": "2025-11-15T12:55:03.369476",
+      "status": "success",
+      "duration": 15.552079916000366,
+      "end_time": "2025-11-15T12:55:18.921627"
+    },
+    {
+      "symbol": "UPS",
+      "start_time": "2025-11-15T12:55:18.922111",
+      "status": "success",
+      "duration": 14.707188844680786,
+      "end_time": "2025-11-15T12:55:33.629367"
+    },
+    {
+      "symbol": "URI",
+      "start_time": "2025-11-15T12:55:33.630076",
+      "status": "success",
+      "duration": 18.553823947906494,
+      "end_time": "2025-11-15T12:55:52.183959"
+    },
+    {
+      "symbol": "USB",
+      "start_time": "2025-11-15T12:55:52.184401",
+      "status": "success",
+      "duration": 14.504212379455566,
+      "end_time": "2025-11-15T12:56:06.688668"
+    },
+    {
+      "symbol": "V",
+      "start_time": "2025-11-15T12:56:06.689262",
+      "status": "success",
+      "duration": 14.536564826965332,
+      "end_time": "2025-11-15T12:56:21.225896"
+    },
+    {
+      "symbol": "VICI",
+      "start_time": "2025-11-15T12:56:21.226306",
+      "status": "success",
+      "duration": 14.254270076751709,
+      "end_time": "2025-11-15T12:56:35.480625"
+    },
+    {
+      "symbol": "VLO",
+      "start_time": "2025-11-15T12:56:35.481024",
+      "status": "failed",
+      "duration": 11.583708763122559,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T12:56:47.064789"
+    },
+    {
+      "symbol": "VLTO",
+      "start_time": "2025-11-15T12:56:47.065165",
+      "status": "failed",
+      "duration": 1.446357011795044,
+      "error": "s/validation.py\", line 1128, in check_array\n    raise ValueError(\n    ...<3 lines>...\n    )\nValueError: Found array with 0 sample(s) (shape=(0, 33)) while a minimum of 1 is required by SimpleImputer.\n",
+      "end_time": "2025-11-15T12:56:48.511558"
+    },
+    {
+      "symbol": "VMC",
+      "start_time": "2025-11-15T12:56:48.511650",
+      "status": "success",
+      "duration": 15.883242845535278,
+      "end_time": "2025-11-15T12:57:04.394957"
+    },
+    {
+      "symbol": "VRSK",
+      "start_time": "2025-11-15T12:57:04.395239",
+      "status": "success",
+      "duration": 16.509909868240356,
+      "end_time": "2025-11-15T12:57:20.905205"
+    },
+    {
+      "symbol": "VRSN",
+      "start_time": "2025-11-15T12:57:20.905484",
+      "status": "success",
+      "duration": 15.438656091690063,
+      "end_time": "2025-11-15T12:57:36.344202"
+    },
+    {
+      "symbol": "VRTX",
+      "start_time": "2025-11-15T12:57:36.344482",
+      "status": "success",
+      "duration": 18.006119966506958,
+      "end_time": "2025-11-15T12:57:54.350667"
+    },
+    {
+      "symbol": "VST",
+      "start_time": "2025-11-15T12:57:54.351502",
+      "status": "success",
+      "duration": 16.307270050048828,
+      "end_time": "2025-11-15T12:58:10.658826"
+    },
+    {
+      "symbol": "VTR",
+      "start_time": "2025-11-15T12:58:10.659091",
+      "status": "success",
+      "duration": 15.39355206489563,
+      "end_time": "2025-11-15T12:58:26.052716"
+    },
+    {
+      "symbol": "VTRS",
+      "start_time": "2025-11-15T12:58:26.053056",
+      "status": "success",
+      "duration": 18.27025604248047,
+      "end_time": "2025-11-15T12:58:44.323377"
+    },
+    {
+      "symbol": "VZ",
+      "start_time": "2025-11-15T12:58:44.323744",
+      "status": "success",
+      "duration": 15.908443927764893,
+      "end_time": "2025-11-15T12:59:00.232563"
+    },
+    {
+      "symbol": "WAB",
+      "start_time": "2025-11-15T12:59:00.232845",
+      "status": "success",
+      "duration": 14.786994934082031,
+      "end_time": "2025-11-15T12:59:15.019919"
+    },
+    {
+      "symbol": "WAT",
+      "start_time": "2025-11-15T12:59:15.020382",
+      "status": "success",
+      "duration": 13.976936101913452,
+      "end_time": "2025-11-15T12:59:28.997380"
+    },
+    {
+      "symbol": "WBD",
+      "start_time": "2025-11-15T12:59:28.997689",
+      "status": "failed",
+      "duration": 1.613826036453247,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=4.\n",
+      "end_time": "2025-11-15T12:59:30.611548"
+    },
+    {
+      "symbol": "WDAY",
+      "start_time": "2025-11-15T12:59:30.611916",
+      "status": "success",
+      "duration": 16.727808952331543,
+      "end_time": "2025-11-15T12:59:47.339791"
+    },
+    {
+      "symbol": "WDC",
+      "start_time": "2025-11-15T12:59:47.340039",
+      "status": "success",
+      "duration": 14.598385334014893,
+      "end_time": "2025-11-15T13:00:01.938482"
+    },
+    {
+      "symbol": "WEC",
+      "start_time": "2025-11-15T13:00:01.938756",
+      "status": "failed",
+      "duration": 12.506618976593018,
+      "error": "\", line 92, in <module>\n    y_proba = model.predict_proba(X_test_processed)[:, 1]\n              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^\nIndexError: index 1 is out of bounds for axis 1 with size 1\n",
+      "end_time": "2025-11-15T13:00:14.445427"
+    },
+    {
+      "symbol": "WELL",
+      "start_time": "2025-11-15T13:00:14.447399",
+      "status": "success",
+      "duration": 14.216028213500977,
+      "end_time": "2025-11-15T13:00:28.663489"
+    },
+    {
+      "symbol": "WFC",
+      "start_time": "2025-11-15T13:00:28.663751",
+      "status": "success",
+      "duration": 19.836620092391968,
+      "end_time": "2025-11-15T13:00:48.500421"
+    },
+    {
+      "symbol": "WM",
+      "start_time": "2025-11-15T13:00:48.500683",
+      "status": "success",
+      "duration": 15.422744989395142,
+      "end_time": "2025-11-15T13:01:03.923484"
+    },
+    {
+      "symbol": "WMB",
+      "start_time": "2025-11-15T13:01:03.923722",
+      "status": "success",
+      "duration": 16.722407817840576,
+      "end_time": "2025-11-15T13:01:20.646210"
+    },
+    {
+      "symbol": "WMT",
+      "start_time": "2025-11-15T13:01:20.646758",
+      "status": "success",
+      "duration": 14.835362195968628,
+      "end_time": "2025-11-15T13:01:35.482201"
+    },
+    {
+      "symbol": "WRB",
+      "start_time": "2025-11-15T13:01:35.482581",
+      "status": "success",
+      "duration": 17.50553297996521,
+      "end_time": "2025-11-15T13:01:52.988175"
+    },
+    {
+      "symbol": "WSM",
+      "start_time": "2025-11-15T13:01:52.988799",
+      "status": "success",
+      "duration": 20.074109077453613,
+      "end_time": "2025-11-15T13:02:13.063183"
+    },
+    {
+      "symbol": "WST",
+      "start_time": "2025-11-15T13:02:13.063497",
+      "status": "success",
+      "duration": 14.332556009292603,
+      "end_time": "2025-11-15T13:02:27.396129"
+    },
+    {
+      "symbol": "WTW",
+      "start_time": "2025-11-15T13:02:27.396398",
+      "status": "failed",
+      "duration": 2.2707338333129883,
+      "error": "arn/model_selection/_split.py\", line 404, in split\n    raise ValueError(\n    ...<4 lines>...\n    )\nValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=4.\n",
+      "end_time": "2025-11-15T13:02:29.667197"
+    },
+    {
+      "symbol": "WY",
+      "start_time": "2025-11-15T13:02:29.667411",
+      "status": "success",
+      "duration": 16.1234393119812,
+      "end_time": "2025-11-15T13:02:45.790926"
+    },
+    {
+      "symbol": "WYNN",
+      "start_time": "2025-11-15T13:02:45.792577",
+      "status": "success",
+      "duration": 15.771071910858154,
+      "end_time": "2025-11-15T13:03:01.563710"
+    },
+    {
+      "symbol": "XEL",
+      "start_time": "2025-11-15T13:03:01.564098",
+      "status": "success",
+      "duration": 17.588170051574707,
+      "end_time": "2025-11-15T13:03:19.152325"
+    },
+    {
+      "symbol": "XOM",
+      "start_time": "2025-11-15T13:03:19.152615",
+      "status": "success",
+      "duration": 15.478199005126953,
+      "end_time": "2025-11-15T13:03:34.630879"
+    },
+    {
+      "symbol": "XYL",
+      "start_time": "2025-11-15T13:03:34.631195",
+      "status": "success",
+      "duration": 20.46570873260498,
+      "end_time": "2025-11-15T13:03:55.097809"
+    },
+    {
+      "symbol": "XYZ",
+      "start_time": "2025-11-15T13:03:55.099186",
+      "status": "success",
+      "duration": 15.108987092971802,
+      "end_time": "2025-11-15T13:04:10.208234"
+    },
+    {
+      "symbol": "YUM",
+      "start_time": "2025-11-15T13:04:10.208534",
+      "status": "success",
+      "duration": 14.886106014251709,
+      "end_time": "2025-11-15T13:04:25.094707"
+    },
+    {
+      "symbol": "ZBH",
+      "start_time": "2025-11-15T13:04:25.095044",
+      "status": "success",
+      "duration": 14.11412787437439,
+      "end_time": "2025-11-15T13:04:39.209228"
+    },
+    {
+      "symbol": "ZBRA",
+      "start_time": "2025-11-15T13:04:39.209589",
+      "status": "success",
+      "duration": 16.893911123275757,
+      "end_time": "2025-11-15T13:04:56.103590"
+    },
+    {
+      "symbol": "ZTS",
+      "start_time": "2025-11-15T13:04:56.103887",
+      "status": "success",
+      "duration": 14.376707792282104,
+      "end_time": "2025-11-15T13:05:10.480663"
+    }
+  ]
+}

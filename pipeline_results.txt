@@ -1,0 +1,1509 @@
+ML Pipeline Execution Results
+================================================================================
+
+Start time: 2025-11-15 10:58:30.901478
+End time: 2025-11-15 11:20:34.428497
+Duration: 0:22:03.527019
+
+Total: 498
+Successful: 0
+Failed: 498
+
+================================================================================
+
+Detailed Results:
+
+A          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AAPL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ABBV       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ABNB       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+ABT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ACGL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ACN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ADBE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ADI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ADM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ADP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ADSK       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AEE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AEP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AES        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AFL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AIG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AIZ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AJG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AKAM       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ALB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ALGN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ALL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ALLE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMAT       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+AMCR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AME        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMGN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AMZN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ANET       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AON        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AOS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APH        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+APTV       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ARE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ATO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AVB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AVGO       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AVY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AWK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AXON       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AXP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+AZO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BA         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BAC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BALL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BAX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BBY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BDX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BEN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BG         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BIIB       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BK         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BKNG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BKR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BLDR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BLK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BMY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BR         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BRO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BSX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BX         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+BXP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+C          ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+CAG        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+CAH        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CARR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CAT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CB         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CBOE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CBRE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CCI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CCL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CDNS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CDW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CEG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CF         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CFG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CHD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CHRW       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CHTR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CI         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CINF       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CL         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CLX        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+CMCSA      ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CME        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CMG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CMI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CMS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CNC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CNP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COF        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COIN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+COST       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+CPAY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CPB        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+CPRT       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CPT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CRL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CRM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CRWD       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CSCO       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CSGP       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CSX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CTAS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CTRA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CTSH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CTVA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CVS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+CVX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+D          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DAL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DASH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DAY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DD         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DDOG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DE         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DECK       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DELL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DG         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DGX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DHI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DHR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DIS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DLR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DLTR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DOC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DOV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DOW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DPZ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DRI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DTE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DUK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DVA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DVN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+DXCM       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EA         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EBAY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ECL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ED         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EFX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EG         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EIX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EL         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ELV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EME        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EMR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EOG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EPAM       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EQIX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EQR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EQT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ERIE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ES         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ESS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ETN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ETR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EVRG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EW         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EXC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EXE        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+EXPD       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EXPE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+EXR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+F          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FANG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FAST       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FCX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FDS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FDX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FE         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FFIV       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FICO       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+FIS        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+FITB       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FOX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FOXA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FRT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FSLR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FTNT       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+FTV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GD         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GDDY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GE         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GEHC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GEN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GEV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GILD       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GIS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GL         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GLW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GM         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GNRC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GOOG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GOOGL      ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GPC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GPN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GRMN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+GS         ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+GWW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HAL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HAS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HBAN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HCA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HD         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HIG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HII        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HLT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HOLX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HON        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HOOD       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HPE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HPQ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HRL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HSIC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HST        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HSY        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+HUBB       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+HUM        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+HWM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IBKR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IBM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ICE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IDXX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IEX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IFF        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+INCY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+INTC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+INTU       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+INVH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IP         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IPG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IQV        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+IR         ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+IRM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ISRG       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+IT         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ITW        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+IVZ        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+J          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JBHT       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JBL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JCI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JKHY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JNJ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+JPM        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+K          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KDP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KEY        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+KEYS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KHC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KIM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KKR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KLAC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KMB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KMI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KO         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KR         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+KVUE       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+L          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LDOS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LEN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LH         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LHX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LII        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LIN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LKQ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LLY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LMT        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+LNT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LOW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LRCX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LULU       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LUV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LVS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LW         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LYB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+LYV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MA         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MAA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MAR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MAS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MCD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MCHP       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MCK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MCO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MDLZ       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MDT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MET        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+META       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MGM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MHK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MKC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MLM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MMC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MMM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MNST       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MO         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MOH        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MOS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MPC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MPWR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MRK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MRNA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MS         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MSCI       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MSFT       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MSI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MTB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MTCH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MTD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+MU         ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+NCLH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NDAQ       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NDSN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NEE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NEM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NFLX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NI         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NKE        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+NOC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NOW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NRG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NSC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NTAP       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NTRS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NUE        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+NVDA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NVR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NWS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NWSA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+NXPI       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+O          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ODFL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+OKE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+OMC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ON         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ORCL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ORLY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+OTIS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+OXY        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PANW       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PAYC       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PAYX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PCAR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PCG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PEG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PEP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PFE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PFG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PG         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PGR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PH         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PHM        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PKG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PLD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PLTR       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PM         ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PNC        ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PNR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PNW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PODD       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+POOL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PPG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PPL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PRU        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PSA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PSKY       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+PSX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PTC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PWR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+PYPL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+QCOM       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RCL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+REG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+REGN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RF         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RJF        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RL         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RMD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ROK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ROL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ROP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ROST       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RSG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RTX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+RVTY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SBAC       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SBUX       ❌ FAILED        Error: prepare_data failed
+  Prepare: False, Train: False, TimeSeries: False, Evaluate: False
+
+SCHW       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SHW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SJM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SLB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SMCI       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SNA        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SNPS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SO         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SOLV       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SPG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SPGI       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SRE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+STE        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+STLD       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+STT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+STX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+STZ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SW         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SWK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SWKS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SYF        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SYK        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+SYY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+T          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TAP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TDG        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TDY        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TECH       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TEL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TER        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TFC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TGT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TJX        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TKO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TMO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TMUS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TPL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TPR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TRGP       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TRMB       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TROW       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TRV        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TSCO       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TSLA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TSN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TT         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TTD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TTWO       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TXN        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TXT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+TYL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UAL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UBER       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UDR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UHS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ULTA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UNH        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UNP        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+UPS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+URI        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+USB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+V          ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VICI       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VLO        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VLTO       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VMC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VRSK       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VRSN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VRTX       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VST        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VTR        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VTRS       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+VZ         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WAB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WAT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WBD        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WDAY       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WDC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WEC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WELL       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WFC        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WM         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WMB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WMT        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WRB        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WSM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WST        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WTW        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WY         ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+WYNN       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+XEL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+XOM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+XYL        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+XYZ        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+YUM        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ZBH        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ZBRA       ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+
+ZTS        ❌ FAILED        Error: train_model failed
+  Prepare: True, Train: False, TimeSeries: False, Evaluate: False
+

@@ -1,0 +1,18 @@
+========================================================================================================================
+ RECENT POLYMARKET EARNINGS EVENTS (Last 10 Closed Markets)
+========================================================================================================================
+
+Rank  Ticker  Company                                   Closed        Outcome   Avg Price   Final   
+------------------------------------------------------------------------------------------------------------------------
+1     FRGE    Forge Global Holdings (FRGE)              Nov 15, 2025  ✗ Miss    0.64        0.00    
+2     QUBT    Quantum Computing (QUBT)                  Nov 15, 2025  ✓ Beat    0.37        1.00    
+3     FEMY    Femasys (FEMY)                            Nov 15, 2025  ✓ Beat    0.40        1.00    
+4     DEFT    DeFi Technologies (DEFT)                  Nov 14, 2025  ✗ Miss    0.36        0.00    
+5     NMAX    Newsmax (NMAX)                            Nov 14, 2025  ✓ Beat    0.40        1.00    
+6     SPCE    Virgin Galactic Holdings (SPCE)           Nov 13, 2025  ✓ Beat    0.81        1.00    
+7     AMAT    Applied Materials (AMAT)                  Nov 13, 2025  ✓ Beat    0.88        1.00    
+8     AVR     Anteris Technologies Global (AVR)         Nov 13, 2025  ✗ Miss    0.27        0.00    
+9     BTM     Bitcoin Depot (BTM)                       Nov 13, 2025  ✗ Miss    0.41        0.00    
+10    GAMB    Gambling.com Group (GAMB)                 Nov 13, 2025  ✓ Beat    0.84        1.00    
+========================================================================================================================
+Source: Polymarket earnings history | Analysis as of November 15, 2025

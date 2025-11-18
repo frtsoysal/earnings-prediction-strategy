@@ -1,0 +1,125 @@
+================================================================================
+S&P 500 ML PIPELINE - AGGREGATE PERFORMANCE ANALYSIS
+================================================================================
+
+1. OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total companies analyzed: 419
+Total model evaluations: 1257
+Average test samples per company: 10.5
+Average test beat rate: 75.41%
+
+2. MODEL PERFORMANCE COMPARISON (AVERAGE ACROSS ALL COMPANIES)
+--------------------------------------------------------------------------------
+                     accuracy                     precision                        recall                      f1_score                       roc_auc                    
+                         mean       std    median      mean       std    median      mean       std    median      mean       std    median      mean       std    median
+model                                                                                                                                                                    
+Logistic Regression  0.400519  0.281960  0.363636  0.364791  0.423417  0.000000  0.297014  0.376929  0.000000  0.302510  0.363988  0.000000  0.560828  0.190216  0.500000
+Random Forest        0.664345  0.240221  0.727273  0.721886  0.295168  0.800000  0.741889  0.340415  1.000000  0.695586  0.295376  0.777778  0.624490  0.237923  0.629167
+XGBoost              0.474207  0.300451  0.500000  0.478399  0.423214  0.636364  0.414453  0.403817  0.363636  0.417855  0.384255  0.444444  0.586612  0.199104  0.500000
+
+3. BEST PERFORMING MODELS
+--------------------------------------------------------------------------------
+ACCURACY            : Random Forest             (0.6643)
+ROC_AUC             : Random Forest             (0.6245)
+F1_SCORE            : Random Forest             (0.6956)
+
+4. TOP 10 COMPANIES (Best Average Accuracy)
+--------------------------------------------------------------------------------
+ 1. RCL    - Accuracy: 100.00%
+ 2. LOW    - Accuracy: 100.00%
+ 3. RL     - Accuracy: 100.00%
+ 4. BKNG   - Accuracy: 100.00%
+ 5. FTNT   - Accuracy: 100.00%
+ 6. TJX    - Accuracy: 100.00%
+ 7. ADP    - Accuracy: 100.00%
+ 8. L      - Accuracy: 100.00%
+ 9. ALLE   - Accuracy: 96.97%
+10. ISRG   - Accuracy: 96.97%
+
+5. BOTTOM 10 COMPANIES (Lowest Average Accuracy)
+--------------------------------------------------------------------------------
+ 1. GOOG   - Accuracy: 0.00%
+ 2. SYK    - Accuracy: 0.00%
+ 3. GOOGL  - Accuracy: 0.00%
+ 4. AIZ    - Accuracy: 6.06%
+ 5. NDAQ   - Accuracy: 15.15%
+ 6. PANW   - Accuracy: 16.67%
+ 7. VTR    - Accuracy: 18.18%
+ 8. SPCE   - Accuracy: 20.00%
+ 9. AFL    - Accuracy: 21.21%
+10. BKR    - Accuracy: 21.21%
+
+6. TOP 20 MOST IMPORTANT FEATURES (Aggregate Across All Companies)
+--------------------------------------------------------------------------------
+Rank  Feature                                      RF Mean     XGB Mean    Combined    
+--------------------------------------------------------------------------------
+4     elo_momentum                                 0.0802      0.1466      0.2268      
+21    revenue_estimate_high                        0.0642      0.1170      0.1813      
+18    revenue_estimate_low                         0.0695      0.0950      0.1645      
+5     elo_before                                   0.0635      0.0957      0.1591      
+9     elo_decay                                    0.0615      0.0973      0.1588      
+12    price_1m_before                              0.0663      0.0923      0.1586      
+22    revenue_estimate_analyst_count               0.0598      0.0890      0.1489      
+20    eps_estimate_revision_up_trailing_30_days    0.0579      0.0897      0.1476      
+10    revenue_estimate_average                     0.0542      0.0934      0.1476      
+15    total_revenue_ttm_yoy_growth_lag1            0.0548      0.0901      0.1448      
+8     actual_eps_yoy_growth_lag1                   0.0516      0.0889      0.1405      
+11    total_revenue_yoy_growth_lag1                0.0563      0.0830      0.1393      
+31    ebitda_yoy_growth_lag1                       0.0537      0.0817      0.1354      
+16    elo_vol_4q                                   0.0544      0.0809      0.1353      
+6     actual_eps_qoq_growth_lag1                   0.0604      0.0737      0.1341      
+28    total_revenue_qoq_growth_lag1                0.0580      0.0717      0.1297      
+27    eps_estimate_revision_down_trailing_7_days   0.0567      0.0702      0.1269      
+33    operating_income_yoy_growth_lag1             0.0541      0.0725      0.1265      
+23    eps_estimate_average_90_days_ago             0.0588      0.0642      0.1230      
+25    gross_margin_yoy_change_lag1                 0.0489      0.0703      0.1192      
+
+7. MODEL RELIABILITY (Consistency Metrics)
+--------------------------------------------------------------------------------
+
+Random Forest:
+  Mean Accuracy:  0.6643 ± 0.2402
+  Mean ROC-AUC:   0.6245 ± 0.2379
+  Coefficient of Variation (Accuracy): 36.16%
+
+XGBoost:
+  Mean Accuracy:  0.4742 ± 0.3005
+  Mean ROC-AUC:   0.5866 ± 0.1991
+  Coefficient of Variation (Accuracy): 63.36%
+
+Logistic Regression:
+  Mean Accuracy:  0.4005 ± 0.2820
+  Mean ROC-AUC:   0.5608 ± 0.1902
+  Coefficient of Variation (Accuracy): 70.40%
+
+8. PERFORMANCE DISTRIBUTION
+--------------------------------------------------------------------------------
+
+Random Forest Accuracy Distribution:
+  Min:     0.0000
+  25th %:  0.5000
+  Median:  0.7273
+  75th %:  0.8750
+  Max:     1.0000
+  Companies with >80% accuracy: 136
+
+XGBoost Accuracy Distribution:
+  Min:     0.0000
+  25th %:  0.2111
+  Median:  0.5000
+  75th %:  0.7273
+  Max:     1.0000
+  Companies with >80% accuracy: 72
+
+Logistic Regression Accuracy Distribution:
+  Min:     0.0000
+  25th %:  0.1818
+  Median:  0.3636
+  75th %:  0.6364
+  Max:     1.0000
+  Companies with >80% accuracy: 50
+
+================================================================================
+END OF ANALYSIS
+================================================================================

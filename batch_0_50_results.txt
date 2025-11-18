@@ -1,0 +1,57 @@
+Batch 0-50 Results
+================================================================================
+
+Duration: 0:01:52.557687
+Successful: 0
+Failed: 50
+
+❌ A          - train_model failed
+❌ AAPL       - train_model failed
+❌ ABBV       - train_model failed
+❌ ABNB       - prepare_data failed
+❌ ABT        - train_model failed
+❌ ACGL       - train_model failed
+❌ ACN        - train_model failed
+❌ ADBE       - train_model failed
+❌ ADI        - train_model failed
+❌ ADM        - train_model failed
+❌ ADP        - train_model failed
+❌ ADSK       - train_model failed
+❌ AEE        - train_model failed
+❌ AEP        - train_model failed
+❌ AES        - train_model failed
+❌ AFL        - train_model failed
+❌ AIG        - train_model failed
+❌ AIZ        - train_model failed
+❌ AJG        - train_model failed
+❌ AKAM       - train_model failed
+❌ ALB        - train_model failed
+❌ ALGN       - train_model failed
+❌ ALL        - train_model failed
+❌ ALLE       - train_model failed
+❌ AMAT       - prepare_data failed
+❌ AMCR       - train_model failed
+❌ AMD        - train_model failed
+❌ AME        - train_model failed
+❌ AMGN       - train_model failed
+❌ AMP        - train_model failed
+❌ AMT        - train_model failed
+❌ AMZN       - train_model failed
+❌ ANET       - train_model failed
+❌ AON        - train_model failed
+❌ AOS        - train_model failed
+❌ APA        - train_model failed
+❌ APD        - train_model failed
+❌ APH        - train_model failed
+❌ APO        - train_model failed
+❌ APP        - train_model failed
+❌ APTV       - train_model failed
+❌ ARE        - train_model failed
+❌ ATO        - train_model failed
+❌ AVB        - train_model failed
+❌ AVGO       - train_model failed
+❌ AVY        - train_model failed
+❌ AWK        - train_model failed
+❌ AXON       - train_model failed
+❌ AXP        - train_model failed
+❌ AZO        - train_model failed

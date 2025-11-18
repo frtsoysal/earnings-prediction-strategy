@@ -1,0 +1,41 @@
+
+# Kelly Criterion Implementation
+
+def calculate_kelly_bet(p_model, q_market, base_capital=100, kelly_fraction=0.25):
+    """
+    Calculate optimal bet size using Kelly Criterion
+    
+    Args:
+        p_model: Model probability (0-1)
+        q_market: Market price (0-1)
+        base_capital: Available capital
+        kelly_fraction: Fraction of Kelly (0.25 = quarter-Kelly)
+    
+    Returns:
+        (bet_size, expected_value)
+    """
+    # Calculate edge
+    edge = p_model - q_market
+    
+    if edge <= 0:
+        return 0, 0  # No bet on negative edge
+    
+    # Kelly optimal fraction
+    kelly_optimal = edge / (1 - q_market)
+    
+    # Apply fractional Kelly (risk management)
+    bet = kelly_optimal * kelly_fraction * base_capital
+    bet = min(bet, base_capital)  # Cap at available capital
+    
+    # Expected value
+    shares = bet / q_market
+    profit_if_win = (shares * 1.00 - bet) * 0.98  # 2% fee
+    loss_if_lose = bet
+    
+    ev = p_model * profit_if_win - (1 - p_model) * loss_if_lose
+    
+    return bet, ev
+
+# Example usage
+bet_size, ev = calculate_kelly_bet(p_model=0.75, q_market=0.60)
+print(f"Bet: ${bet_size:.2f}, Expected Value: ${ev:.2f}")

@@ -1,0 +1,159 @@
+{
+  "symbol": "RJF",
+  "total_samples": 32,
+  "train_samples": 22,
+  "test_samples": 10,
+  "train_date_range": {
+    "start": "2017-06-30 00:00:00",
+    "end": "2022-12-31 00:00:00"
+  },
+  "test_date_range": {
+    "start": "2023-03-31 00:00:00",
+    "end": "2025-06-30 00:00:00"
+  },
+  "train_class_balance": {
+    "beat_rate": 0.09090909090909091,
+    "class_0": 20,
+    "class_1": 2
+  },
+  "test_class_balance": {
+    "beat_rate": 0.3,
+    "class_0": 7,
+    "class_1": 3
+  },
+  "feature_count": 33,
+  "missing_value_stats": {
+    "price_1m_before": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "price_3m_before": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "price_change_1m_pct": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "price_change_3m_pct": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_average": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_high": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_low": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_analyst_count": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_average_7_days_ago": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_average_30_days_ago": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_average_60_days_ago": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_average_90_days_ago": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_revision_up_trailing_7_days": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_revision_down_trailing_7_days": {
+      "count": 13,
+      "percentage": 40.62
+    },
+    "eps_estimate_revision_up_trailing_30_days": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "eps_estimate_revision_down_trailing_30_days": {
+      "count": 17,
+      "percentage": 53.12
+    },
+    "revenue_estimate_average": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "revenue_estimate_high": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "revenue_estimate_low": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "revenue_estimate_analyst_count": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "elo_before": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "elo_decay": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "elo_momentum": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "elo_vol_4q": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_revenue_yoy_growth_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    },
+    "total_revenue_qoq_growth_lag1": {
+      "count": 2,
+      "percentage": 6.25
+    },
+    "total_revenue_ttm_yoy_growth_lag1": {
+      "count": 8,
+      "percentage": 25.0
+    },
+    "actual_eps_yoy_growth_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    },
+    "actual_eps_qoq_growth_lag1": {
+      "count": 2,
+      "percentage": 6.25
+    },
+    "ebitda_yoy_growth_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    },
+    "operating_income_yoy_growth_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    },
+    "gross_margin_yoy_change_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    },
+    "operating_margin_yoy_change_lag1": {
+      "count": 4,
+      "percentage": 12.5
+    }
+  }
+}

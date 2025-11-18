@@ -1,0 +1,65 @@
+================================================================================
+POLYMARKET VS ML PREDICTIONS - BACKTEST ANALYSIS
+================================================================================
+
+DATASET SUMMARY
+--------------------------------------------------------------------------------
+Polymarket CSV: /Users/ibrahimfiratsoysal/Documents/earnings_history_1year.csv
+Total events: 300
+Events with raw data: 262
+Unique tickers tested: 262
+Date range: 2025-10-09 14:11:13+00 to 2025-11-15 16:18:33+00
+
+MODEL ACCURACY (vs Polymarket Outcomes)
+--------------------------------------------------------------------------------
+Random Forest:        69.85% (183/262 correct)
+XGBoost:              68.32% (179/262 correct)
+Logistic Regression:  70.23% (184/262 correct)
+Ensemble (Majority):  69.85% (183/262 correct)
+
+BEAT RATE COMPARISON
+--------------------------------------------------------------------------------
+Polymarket Actual:    72.52%
+RF Predicted:         71.37%
+XGB Predicted:        64.50%
+LR Predicted:         70.23%
+
+CONFUSION MATRIX (Logistic Regression)
+--------------------------------------------------------------------------------
+                Predicted Beat    Predicted Miss
+Actual Beat          148                42
+Actual Miss           36                36
+
+QUARTER DISTRIBUTION
+--------------------------------------------------------------------------------
+2025-09-30: 262 events, RF accuracy: 69.8%, Beat rate: 72.5%
+
+TOP PERFORMING TICKERS (ML Predictions)
+--------------------------------------------------------------------------------
+AAL   : 100.0% accuracy (1 events)
+MRNA  : 100.0% accuracy (1 events)
+LYV   : 100.0% accuracy (1 events)
+MA    : 100.0% accuracy (1 events)
+MAR   : 100.0% accuracy (1 events)
+MAT   : 100.0% accuracy (1 events)
+MCD   : 100.0% accuracy (1 events)
+MCO   : 100.0% accuracy (1 events)
+MET   : 100.0% accuracy (1 events)
+MKTX  : 100.0% accuracy (1 events)
+
+BOTTOM PERFORMING TICKERS
+--------------------------------------------------------------------------------
+IEP   : 0.0% accuracy (1 events)
+DOW   : 0.0% accuracy (1 events)
+SHOP  : 0.0% accuracy (1 events)
+DIS   : 0.0% accuracy (1 events)
+OTLY  : 0.0% accuracy (1 events)
+HTZ   : 0.0% accuracy (1 events)
+DD    : 0.0% accuracy (1 events)
+DASH  : 0.0% accuracy (1 events)
+SSNC  : 0.0% accuracy (1 events)
+SSTK  : 0.0% accuracy (1 events)
+
+================================================================================
+END OF ANALYSIS
+================================================================================

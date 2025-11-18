@@ -1,0 +1,10 @@
+MISSING TICKERS - Need to fetch data
+================================================================================
+
+APLD     - 1 Polymarket events
+BLSH     - 1 Polymarket events
+BRK      - 1 Polymarket events
+CHYM     - 1 Polymarket events
+CRCL     - 1 Polymarket events
+EPS      - 1 Polymarket events
+ETOR     - 1 Polymarket events
